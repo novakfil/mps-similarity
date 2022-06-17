@@ -1,0 +1,4300 @@
+{
+    "data": [
+        {
+            "czechParliamentIdLabel": "5955",
+            "itemLabel": "Gabriela Peckov\u00e1",
+            "birthDate": "1957-01-19T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "100",
+            "itemLabel": "Hana Kordov\u00e1 Marvanov\u00e1",
+            "birthDate": "1962-11-26T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "166",
+            "itemLabel": "Hana Tomanov\u00e1",
+            "birthDate": "1937-01-18T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5320",
+            "itemLabel": "Hana \u0160ediv\u00e1",
+            "birthDate": "1956-08-25T00:00:00Z",
+            "occupationLabel": "soudce"
+        },
+        {
+            "czechParliamentIdLabel": "5320",
+            "itemLabel": "Hana \u0160ediv\u00e1",
+            "birthDate": "1956-08-25T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "315",
+            "itemLabel": "Hana \u0160korpilov\u00e1",
+            "birthDate": "1940-11-05T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "315",
+            "itemLabel": "Hana \u0160korpilov\u00e1",
+            "birthDate": "1940-11-05T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5258",
+            "itemLabel": "Helena Mallotov\u00e1",
+            "birthDate": "1944-10-26T00:00:00Z",
+            "occupationLabel": "p\u0159ekladatel"
+        },
+        {
+            "czechParliamentIdLabel": "6168",
+            "itemLabel": "Helena V\u00e1lkov\u00e1",
+            "birthDate": "1951-01-07T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6193",
+            "itemLabel": "Ivan Gabal",
+            "birthDate": "1951-01-15T00:00:00Z",
+            "occupationLabel": "sociolog"
+        },
+        {
+            "czechParliamentIdLabel": "264",
+            "itemLabel": "Ivan Ko\u010d\u00e1rn\u00edk",
+            "birthDate": "1944-11-29T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "5486",
+            "itemLabel": "Ivan Ohl\u00eddal",
+            "birthDate": "1945-04-25T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "5486",
+            "itemLabel": "Ivan Ohl\u00eddal",
+            "birthDate": "1945-04-25T00:00:00Z",
+            "occupationLabel": "fyzik"
+        },
+        {
+            "czechParliamentIdLabel": "5486",
+            "itemLabel": "Ivan Ohl\u00eddal",
+            "birthDate": "1945-04-25T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "202",
+            "itemLabel": "Ivana Jan\u016f",
+            "birthDate": "1946-03-14T00:00:00Z",
+            "occupationLabel": "soudce"
+        },
+        {
+            "czechParliamentIdLabel": "202",
+            "itemLabel": "Ivana Jan\u016f",
+            "birthDate": "1946-03-14T00:00:00Z",
+            "occupationLabel": "podnikov\u00fd pr\u00e1vn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "5274",
+            "itemLabel": "Ivana Lev\u00e1",
+            "birthDate": "1950-06-16T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5984",
+            "itemLabel": "Ivana Weberov\u00e1",
+            "birthDate": "1976-10-01T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "205",
+            "itemLabel": "Ivo Honick\u00fd",
+            "birthDate": "1963-12-09T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5883",
+            "itemLabel": "Ivo Kantor",
+            "birthDate": "1959-08-20T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5309",
+            "itemLabel": "Ivo Vykydal",
+            "birthDate": "1964-10-01T00:00:00Z",
+            "occupationLabel": "zem\u011bm\u011b\u0159i\u010d"
+        },
+        {
+            "czechParliamentIdLabel": "5379",
+            "itemLabel": "Jan Bauer",
+            "birthDate": "1969-04-27T00:00:00Z",
+            "occupationLabel": "publicista"
+        },
+        {
+            "czechParliamentIdLabel": "5909",
+            "itemLabel": "Jan Farsk\u00fd",
+            "birthDate": "1979-07-11T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "62",
+            "itemLabel": "Jan Kalvoda",
+            "birthDate": "1953-10-30T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "62",
+            "itemLabel": "Jan Kalvoda",
+            "birthDate": "1953-10-30T00:00:00Z",
+            "occupationLabel": "pr\u00e1vn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "62",
+            "itemLabel": "Jan Kalvoda",
+            "birthDate": "1953-10-30T00:00:00Z",
+            "occupationLabel": "st\u00e1tn\u00ed \u00fa\u0159edn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "5934",
+            "itemLabel": "Jan Kl\u00e1n",
+            "birthDate": "1982-11-29T00:00:00Z",
+            "occupationLabel": "sociolog"
+        },
+        {
+            "czechParliamentIdLabel": "222",
+            "itemLabel": "Jan Kostrhun",
+            "birthDate": "1942-07-03T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "5880",
+            "itemLabel": "Jan Kostrhun",
+            "birthDate": "1942-07-03T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "222",
+            "itemLabel": "Jan Kostrhun",
+            "birthDate": "1942-07-03T00:00:00Z",
+            "occupationLabel": "dramatik"
+        },
+        {
+            "czechParliamentIdLabel": "5880",
+            "itemLabel": "Jan Kostrhun",
+            "birthDate": "1942-07-03T00:00:00Z",
+            "occupationLabel": "dramatik"
+        },
+        {
+            "czechParliamentIdLabel": "222",
+            "itemLabel": "Jan Kostrhun",
+            "birthDate": "1942-07-03T00:00:00Z",
+            "occupationLabel": "zootechnik"
+        },
+        {
+            "czechParliamentIdLabel": "5880",
+            "itemLabel": "Jan Kostrhun",
+            "birthDate": "1942-07-03T00:00:00Z",
+            "occupationLabel": "zootechnik"
+        },
+        {
+            "czechParliamentIdLabel": "222",
+            "itemLabel": "Jan Kostrhun",
+            "birthDate": "1942-07-03T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5880",
+            "itemLabel": "Jan Kostrhun",
+            "birthDate": "1942-07-03T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6737",
+            "itemLabel": "Jan Lacina",
+            "birthDate": "1970-01-25T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "6737",
+            "itemLabel": "Jan Lacina",
+            "birthDate": "1970-01-25T00:00:00Z",
+            "occupationLabel": "politolog"
+        },
+        {
+            "czechParliamentIdLabel": "6737",
+            "itemLabel": "Jan Lacina",
+            "birthDate": "1970-01-25T00:00:00Z",
+            "occupationLabel": "publicista"
+        },
+        {
+            "czechParliamentIdLabel": "6737",
+            "itemLabel": "Jan Lacina",
+            "birthDate": "1970-01-25T00:00:00Z",
+            "occupationLabel": "filmov\u00fd historik"
+        },
+        {
+            "czechParliamentIdLabel": "5269",
+            "itemLabel": "Jan Ml\u00e1dek",
+            "birthDate": "1960-06-01T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "5269",
+            "itemLabel": "Jan Ml\u00e1dek",
+            "birthDate": "1960-06-01T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "109",
+            "itemLabel": "Jan Navr\u00e1til",
+            "birthDate": "1955-12-01T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "418",
+            "itemLabel": "Jan Svoboda",
+            "birthDate": "1956-12-27T00:00:00Z",
+            "occupationLabel": "zubn\u00ed l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "418",
+            "itemLabel": "Jan Svoboda",
+            "birthDate": "1956-12-27T00:00:00Z",
+            "occupationLabel": "divadeln\u00ed \u0159editel"
+        },
+        {
+            "czechParliamentIdLabel": "195",
+            "itemLabel": "Jan Zahradn\u00ed\u010dek",
+            "birthDate": "1948-05-31T00:00:00Z",
+            "occupationLabel": "fotograf"
+        },
+        {
+            "czechParliamentIdLabel": "5641",
+            "itemLabel": "Jan Zahradn\u00ed\u010dek",
+            "birthDate": "1948-05-31T00:00:00Z",
+            "occupationLabel": "fotograf"
+        },
+        {
+            "czechParliamentIdLabel": "195",
+            "itemLabel": "Jan Zahradn\u00ed\u010dek",
+            "birthDate": "1948-05-31T00:00:00Z",
+            "occupationLabel": "ilustr\u00e1tor"
+        },
+        {
+            "czechParliamentIdLabel": "5641",
+            "itemLabel": "Jan Zahradn\u00ed\u010dek",
+            "birthDate": "1948-05-31T00:00:00Z",
+            "occupationLabel": "ilustr\u00e1tor"
+        },
+        {
+            "czechParliamentIdLabel": "212",
+            "itemLabel": "Jana Gavlasov\u00e1",
+            "birthDate": "1951-09-29T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5401",
+            "itemLabel": "Jana Hamplov\u00e1",
+            "birthDate": "1965-05-18T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "5401",
+            "itemLabel": "Jana Hamplov\u00e1",
+            "birthDate": "1965-05-18T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "271",
+            "itemLabel": "Jana Petrov\u00e1",
+            "birthDate": "1966-09-16T00:00:00Z",
+            "occupationLabel": "poslanec"
+        },
+        {
+            "czechParliamentIdLabel": "3228",
+            "itemLabel": "Jana Petrov\u00e1",
+            "birthDate": "1966-09-16T00:00:00Z",
+            "occupationLabel": "poslanec"
+        },
+        {
+            "czechParliamentIdLabel": "271",
+            "itemLabel": "Jana Petrov\u00e1",
+            "birthDate": "1966-09-16T00:00:00Z",
+            "occupationLabel": "tiskov\u00fd mluv\u010d\u00ed"
+        },
+        {
+            "czechParliamentIdLabel": "3228",
+            "itemLabel": "Jana Petrov\u00e1",
+            "birthDate": "1966-09-16T00:00:00Z",
+            "occupationLabel": "tiskov\u00fd mluv\u010d\u00ed"
+        },
+        {
+            "czechParliamentIdLabel": "5499",
+            "itemLabel": "Jana Ryb\u00ednov\u00e1",
+            "birthDate": "1960-03-24T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5970",
+            "itemLabel": "Jana Such\u00e1",
+            "birthDate": "1975-09-22T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "427",
+            "itemLabel": "Jana Volfov\u00e1",
+            "birthDate": "1957-11-02T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "61",
+            "itemLabel": "Jarom\u00edr Kalus",
+            "birthDate": "1947-12-27T00:00:00Z",
+            "occupationLabel": "historik"
+        },
+        {
+            "czechParliamentIdLabel": "61",
+            "itemLabel": "Jarom\u00edr Kalus",
+            "birthDate": "1947-12-27T00:00:00Z",
+            "occupationLabel": "numismatik"
+        },
+        {
+            "czechParliamentIdLabel": "61",
+            "itemLabel": "Jarom\u00edr Kalus",
+            "birthDate": "1947-12-27T00:00:00Z",
+            "occupationLabel": "publicista"
+        },
+        {
+            "czechParliamentIdLabel": "61",
+            "itemLabel": "Jarom\u00edr Kalus",
+            "birthDate": "1947-12-27T00:00:00Z",
+            "occupationLabel": "muzeolog"
+        },
+        {
+            "czechParliamentIdLabel": "157",
+            "itemLabel": "Jarom\u00edr \u0160im\u00e1nek",
+            "birthDate": "1959-01-05T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "207",
+            "itemLabel": "Jaroslav Ba\u0161ta",
+            "birthDate": "1948-05-15T00:00:00Z",
+            "occupationLabel": "diplomat"
+        },
+        {
+            "czechParliamentIdLabel": "207",
+            "itemLabel": "Jaroslav Ba\u0161ta",
+            "birthDate": "1948-05-15T00:00:00Z",
+            "occupationLabel": "archeolog"
+        },
+        {
+            "czechParliamentIdLabel": "11",
+            "itemLabel": "Jaroslav Broul\u00edk",
+            "birthDate": "1950-06-25T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5458",
+            "itemLabel": "Jaroslav Fiala",
+            "birthDate": "1956-02-29T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5279",
+            "itemLabel": "Jaroslav Kr\u00e1kora",
+            "birthDate": "1955-10-25T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "229",
+            "itemLabel": "Jaroslav Ma\u0148\u00e1sek",
+            "birthDate": "1943-04-06T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "115",
+            "itemLabel": "Jaroslav Nov\u00e1k",
+            "birthDate": "1935-12-18T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "115",
+            "itemLabel": "Jaroslav Nov\u00e1k",
+            "birthDate": "1935-12-18T00:00:00Z",
+            "occupationLabel": "redaktor"
+        },
+        {
+            "czechParliamentIdLabel": "115",
+            "itemLabel": "Jaroslav Nov\u00e1k",
+            "birthDate": "1935-12-18T00:00:00Z",
+            "occupationLabel": "editor"
+        },
+        {
+            "czechParliamentIdLabel": "211",
+            "itemLabel": "Milada Emmerov\u00e1",
+            "birthDate": "1944-11-04T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5226",
+            "itemLabel": "Pavel \u017d\u00e1\u010dek",
+            "birthDate": "1969-05-18T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "5226",
+            "itemLabel": "Pavel \u017d\u00e1\u010dek",
+            "birthDate": "1969-05-18T00:00:00Z",
+            "occupationLabel": "historik"
+        },
+        {
+            "czechParliamentIdLabel": "5226",
+            "itemLabel": "Pavel \u017d\u00e1\u010dek",
+            "birthDate": "1969-05-18T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5226",
+            "itemLabel": "Pavel \u017d\u00e1\u010dek",
+            "birthDate": "1969-05-18T00:00:00Z",
+            "occupationLabel": "publicista"
+        },
+        {
+            "czechParliamentIdLabel": "347",
+            "itemLabel": "Miroslav Bene\u0161",
+            "birthDate": "1956-04-05T00:00:00Z",
+            "occupationLabel": "fyzik"
+        },
+        {
+            "czechParliamentIdLabel": "4769",
+            "itemLabel": "Vlasta Bohdalov\u00e1",
+            "birthDate": "1957-09-18T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5447",
+            "itemLabel": "Vlasta Bohdalov\u00e1",
+            "birthDate": "1957-09-18T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "411",
+            "itemLabel": "V\u00e1clav P\u00edcl",
+            "birthDate": "1959-12-03T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5509",
+            "itemLabel": "Milan \u0160m\u00edd",
+            "birthDate": "1952-01-08T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "393",
+            "itemLabel": "Miroslav M\u00e1\u010de",
+            "birthDate": "1956-01-01T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "393",
+            "itemLabel": "Miroslav M\u00e1\u010de",
+            "birthDate": "1956-08-19T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "393",
+            "itemLabel": "Miroslav M\u00e1\u010de",
+            "birthDate": "1956-01-01T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "393",
+            "itemLabel": "Miroslav M\u00e1\u010de",
+            "birthDate": "1956-08-19T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5768",
+            "itemLabel": "Vojt\u011bch Adam",
+            "birthDate": "1950-09-12T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5912",
+            "itemLabel": "\u0160t\u011bp\u00e1nka Fra\u0148kov\u00e1",
+            "birthDate": "1965-06-30T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "63",
+            "itemLabel": "Ji\u0159\u00ed Karas",
+            "birthDate": "1942-07-30T00:00:00Z",
+            "occupationLabel": "pr\u00e1vn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "63",
+            "itemLabel": "Ji\u0159\u00ed Karas",
+            "birthDate": "1942-07-30T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "63",
+            "itemLabel": "Ji\u0159\u00ed Karas",
+            "birthDate": "1942-07-30T00:00:00Z",
+            "occupationLabel": "diplomat"
+        },
+        {
+            "czechParliamentIdLabel": "313",
+            "itemLabel": "Alena Svobodov\u00e1",
+            "birthDate": "1948-01-04T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "412",
+            "itemLabel": "Ale\u0161 Rozehnal",
+            "birthDate": "1952-11-27T00:00:00Z",
+            "occupationLabel": "klenotn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "412",
+            "itemLabel": "Ale\u0161 Rozehnal",
+            "birthDate": "1952-11-27T00:00:00Z",
+            "occupationLabel": "socha\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5959",
+            "itemLabel": "Ale\u0161 Rozto\u010dil",
+            "birthDate": "1953-05-10T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5959",
+            "itemLabel": "Ale\u0161 Rozto\u010dil",
+            "birthDate": "1953-05-10T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6150",
+            "itemLabel": "Andrej Babi\u0161",
+            "birthDate": "1954-09-02T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6150",
+            "itemLabel": "Andrej Babi\u0161",
+            "birthDate": "1954-09-02T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6150",
+            "itemLabel": "Andrej Babi\u0161",
+            "birthDate": "1954-09-02T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "38",
+            "itemLabel": "Andrej Gjuri\u010d",
+            "birthDate": "1938-11-29T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "345",
+            "itemLabel": "Walter Barto\u0161",
+            "birthDate": "1961-04-23T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "345",
+            "itemLabel": "Walter Barto\u0161",
+            "birthDate": "1961-04-23T00:00:00Z",
+            "occupationLabel": "historik"
+        },
+        {
+            "czechParliamentIdLabel": "345",
+            "itemLabel": "Walter Barto\u0161",
+            "birthDate": "1961-04-23T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5957",
+            "itemLabel": "Anna Putnov\u00e1",
+            "birthDate": "1960-07-24T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6617",
+            "itemLabel": "Anna Putnov\u00e1",
+            "birthDate": "1960-07-24T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "5957",
+            "itemLabel": "Anna Putnov\u00e1",
+            "birthDate": "1960-07-24T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6617",
+            "itemLabel": "Anna Putnov\u00e1",
+            "birthDate": "1960-07-24T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "5957",
+            "itemLabel": "Anna Putnov\u00e1",
+            "birthDate": "1960-07-24T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6617",
+            "itemLabel": "Anna Putnov\u00e1",
+            "birthDate": "1960-07-24T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5263",
+            "itemLabel": "Anna \u010curdov\u00e1",
+            "birthDate": "1962-04-19T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "145",
+            "itemLabel": "Anton\u00edn Sochor",
+            "birthDate": "1942-03-01T00:00:00Z",
+            "occupationLabel": "matematik"
+        },
+        {
+            "czechParliamentIdLabel": "5332",
+            "itemLabel": "Anton\u00edn Tesa\u0159\u00edk",
+            "birthDate": "1960-07-15T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "151",
+            "itemLabel": "Zby\u0161ek Stod\u016flka",
+            "birthDate": "1947-06-19T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "5769",
+            "itemLabel": "Zdenka Dopitov\u00e1",
+            "birthDate": "1948-12-31T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5897",
+            "itemLabel": "Zden\u011bk Bezecn\u00fd",
+            "birthDate": "1971-12-01T00:00:00Z",
+            "occupationLabel": "historik"
+        },
+        {
+            "czechParliamentIdLabel": "5897",
+            "itemLabel": "Zden\u011bk Bezecn\u00fd",
+            "birthDate": "1971-12-01T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5445",
+            "itemLabel": "Zden\u011bk Boh\u00e1\u010d",
+            "birthDate": "1958-03-11T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "218",
+            "itemLabel": "Zden\u011bk Ji\u010d\u00ednsk\u00fd",
+            "birthDate": "1929-02-26T00:00:00Z",
+            "occupationLabel": "pr\u00e1vn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "218",
+            "itemLabel": "Zden\u011bk Ji\u010d\u00ednsk\u00fd",
+            "birthDate": "1929-02-26T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "218",
+            "itemLabel": "Zden\u011bk Ji\u010d\u00ednsk\u00fd",
+            "birthDate": "1929-02-26T00:00:00Z",
+            "occupationLabel": "publicista"
+        },
+        {
+            "czechParliamentIdLabel": "308",
+            "itemLabel": "Zden\u011bk Klanica",
+            "birthDate": "1938-11-28T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "308",
+            "itemLabel": "Zden\u011bk Klanica",
+            "birthDate": "1938-11-28T00:00:00Z",
+            "occupationLabel": "archeolog"
+        },
+        {
+            "czechParliamentIdLabel": "5493",
+            "itemLabel": "Zden\u011bk Prosek",
+            "birthDate": "1950-11-23T00:00:00Z",
+            "occupationLabel": "technik"
+        },
+        {
+            "czechParliamentIdLabel": "169",
+            "itemLabel": "Zden\u011bk Trojan",
+            "birthDate": "1936-05-01T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "186",
+            "itemLabel": "Zden\u011bk Vorl\u00ed\u010dek",
+            "birthDate": "1941-03-28T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "283",
+            "itemLabel": "Zden\u011bk Zaj\u00ed\u010dek",
+            "birthDate": "1967-05-10T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "4803",
+            "itemLabel": "Zden\u011bk Zaj\u00ed\u010dek",
+            "birthDate": "1967-05-10T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "261",
+            "itemLabel": "Zde\u0148ka Horn\u00edkov\u00e1",
+            "birthDate": "1952-12-06T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5430",
+            "itemLabel": "Zuzana Domesov\u00e1",
+            "birthDate": "1948-11-29T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "312",
+            "itemLabel": "Zuzka Bebarov\u00e1-Rujbrov\u00e1",
+            "birthDate": "1951-01-13T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "332",
+            "itemLabel": "Blanka Zaj\u00edcov\u00e1",
+            "birthDate": "1971-03-17T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "431",
+            "itemLabel": "Bohuslav Z\u00e1ruba",
+            "birthDate": "1940-04-19T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5512",
+            "itemLabel": "Boris \u0160\u0165astn\u00fd",
+            "birthDate": "1970-04-08T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5512",
+            "itemLabel": "Boris \u0160\u0165astn\u00fd",
+            "birthDate": "1970-04-08T00:00:00Z",
+            "occupationLabel": "Q10501288"
+        },
+        {
+            "czechParliamentIdLabel": "5972",
+            "itemLabel": "Bo\u0159ivoj \u0160arapatka",
+            "birthDate": "1959-07-01T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "192",
+            "itemLabel": "Ji\u0159\u00ed Vyvadil",
+            "birthDate": "1954-08-02T00:00:00Z",
+            "occupationLabel": "soudce"
+        },
+        {
+            "czechParliamentIdLabel": "5583",
+            "itemLabel": "Ji\u0159\u00ed Vyvadil",
+            "birthDate": "1954-08-02T00:00:00Z",
+            "occupationLabel": "soudce"
+        },
+        {
+            "czechParliamentIdLabel": "192",
+            "itemLabel": "Ji\u0159\u00ed Vyvadil",
+            "birthDate": "1954-08-02T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "5583",
+            "itemLabel": "Ji\u0159\u00ed Vyvadil",
+            "birthDate": "1954-08-02T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "5483",
+            "itemLabel": "Dagmar Molendov\u00e1",
+            "birthDate": "1957-03-14T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5946",
+            "itemLabel": "Dagmar Navr\u00e1tilov\u00e1",
+            "birthDate": "1966-07-18T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "5946",
+            "itemLabel": "Dagmar Navr\u00e1tilov\u00e1",
+            "birthDate": "1966-07-18T00:00:00Z",
+            "occupationLabel": "p\u0159ekladatel"
+        },
+        {
+            "czechParliamentIdLabel": "5946",
+            "itemLabel": "Dagmar Navr\u00e1tilov\u00e1",
+            "birthDate": "1966-07-18T00:00:00Z",
+            "occupationLabel": "tlumo\u010dn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "160",
+            "itemLabel": "Dalibor \u0160tambera",
+            "birthDate": "1960-05-01T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5665",
+            "itemLabel": "Daniel Kroupa",
+            "birthDate": "1949-01-06T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "289",
+            "itemLabel": "Daniel Kroupa",
+            "birthDate": "1949-01-06T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5665",
+            "itemLabel": "Daniel Kroupa",
+            "birthDate": "1949-01-06T00:00:00Z",
+            "occupationLabel": "filozof"
+        },
+        {
+            "czechParliamentIdLabel": "289",
+            "itemLabel": "Daniel Kroupa",
+            "birthDate": "1949-01-06T00:00:00Z",
+            "occupationLabel": "filozof"
+        },
+        {
+            "czechParliamentIdLabel": "5498",
+            "itemLabel": "Daniel Rovan",
+            "birthDate": "1964-01-26T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "241",
+            "itemLabel": "Vladim\u00edr \u0160pidla",
+            "birthDate": "1951-04-22T00:00:00Z",
+            "occupationLabel": "historik"
+        },
+        {
+            "czechParliamentIdLabel": "241",
+            "itemLabel": "Vladim\u00edr \u0160pidla",
+            "birthDate": "1951-04-22T00:00:00Z",
+            "occupationLabel": "archeolog"
+        },
+        {
+            "czechParliamentIdLabel": "111",
+            "itemLabel": "Petr Ne\u010das",
+            "birthDate": "1964-11-19T00:00:00Z",
+            "occupationLabel": "fyzik"
+        },
+        {
+            "czechParliamentIdLabel": "263",
+            "itemLabel": "V\u00e1clav Klaus",
+            "birthDate": "1941-06-19T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "263",
+            "itemLabel": "V\u00e1clav Klaus",
+            "birthDate": "1941-06-19T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "5558",
+            "itemLabel": "Karel Schwarzenberg",
+            "birthDate": "1937-12-10T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "5558",
+            "itemLabel": "Karel Schwarzenberg",
+            "birthDate": "1937-12-10T00:00:00Z",
+            "occupationLabel": "diplomat"
+        },
+        {
+            "czechParliamentIdLabel": "1016",
+            "itemLabel": "Ji\u0159\u00ed Dienstbier",
+            "birthDate": "1969-05-27T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "1016",
+            "itemLabel": "Ji\u0159\u00ed Dienstbier",
+            "birthDate": "1969-05-27T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5515",
+            "itemLabel": "Mirek Topol\u00e1nek",
+            "birthDate": "1956-05-15T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "5515",
+            "itemLabel": "Mirek Topol\u00e1nek",
+            "birthDate": "1956-05-15T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "437",
+            "itemLabel": "Martin \u0158\u00edman",
+            "birthDate": "1961-05-11T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "5384",
+            "itemLabel": "Ji\u0159\u00ed Paroubek",
+            "birthDate": "1952-08-21T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "164",
+            "itemLabel": "Vlastimil Tlust\u00fd",
+            "birthDate": "1955-09-19T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "382",
+            "itemLabel": "Zden\u011bk Koudelka",
+            "birthDate": "1969-05-09T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "382",
+            "itemLabel": "Zden\u011bk Koudelka",
+            "birthDate": "1969-05-09T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5932",
+            "itemLabel": "Radek John",
+            "birthDate": "1954-12-06T00:00:00Z",
+            "occupationLabel": "scen\u00e1rista"
+        },
+        {
+            "czechParliamentIdLabel": "5932",
+            "itemLabel": "Radek John",
+            "birthDate": "1954-12-06T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "5932",
+            "itemLabel": "Radek John",
+            "birthDate": "1954-12-06T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5990",
+            "itemLabel": "Jana Fischerov\u00e1",
+            "birthDate": "1955-08-20T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "352",
+            "itemLabel": "Augustin Bubn\u00edk",
+            "birthDate": "1928-11-21T00:00:00Z",
+            "occupationLabel": "hokejov\u00fd tren\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "352",
+            "itemLabel": "Augustin Bubn\u00edk",
+            "birthDate": "1928-11-21T00:00:00Z",
+            "occupationLabel": "hokejista"
+        },
+        {
+            "czechParliamentIdLabel": "5402",
+            "itemLabel": "V\u00edt\u011bzslav Jand\u00e1k",
+            "birthDate": "1947-08-03T00:00:00Z",
+            "occupationLabel": "herec"
+        },
+        {
+            "czechParliamentIdLabel": "39",
+            "itemLabel": "Stanislav Gross",
+            "birthDate": "1969-10-30T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "288",
+            "itemLabel": "Vladim\u00edr Dlouh\u00fd",
+            "birthDate": "1953-07-31T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "288",
+            "itemLabel": "Vladim\u00edr Dlouh\u00fd",
+            "birthDate": "1953-07-31T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6459",
+            "itemLabel": "Jakub Janda",
+            "birthDate": "1978-04-27T00:00:00Z",
+            "occupationLabel": "u\u010ditel t\u011blocviku"
+        },
+        {
+            "czechParliamentIdLabel": "6459",
+            "itemLabel": "Jakub Janda",
+            "birthDate": "1978-04-27T00:00:00Z",
+            "occupationLabel": "skokan na ly\u017e\u00edch"
+        },
+        {
+            "czechParliamentIdLabel": "6459",
+            "itemLabel": "Jakub Janda",
+            "birthDate": "1978-04-27T00:00:00Z",
+            "occupationLabel": "b\u011b\u017eec na ly\u017e\u00edch"
+        },
+        {
+            "czechParliamentIdLabel": "5954",
+            "itemLabel": "Karol\u00edna Peake",
+            "birthDate": "1975-10-10T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "284",
+            "itemLabel": "Josef Zieleniec",
+            "birthDate": "1946-04-28T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "5683",
+            "itemLabel": "Josef Zieleniec",
+            "birthDate": "1946-04-28T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "284",
+            "itemLabel": "Josef Zieleniec",
+            "birthDate": "1946-05-28T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "5683",
+            "itemLabel": "Josef Zieleniec",
+            "birthDate": "1946-05-28T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "284",
+            "itemLabel": "Josef Zieleniec",
+            "birthDate": "1946-04-28T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "5683",
+            "itemLabel": "Josef Zieleniec",
+            "birthDate": "1946-04-28T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "284",
+            "itemLabel": "Josef Zieleniec",
+            "birthDate": "1946-05-28T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "5683",
+            "itemLabel": "Josef Zieleniec",
+            "birthDate": "1946-05-28T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "284",
+            "itemLabel": "Josef Zieleniec",
+            "birthDate": "1946-04-28T00:00:00Z",
+            "occupationLabel": "st\u00e1tn\u00ed \u00fa\u0159edn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "5683",
+            "itemLabel": "Josef Zieleniec",
+            "birthDate": "1946-04-28T00:00:00Z",
+            "occupationLabel": "st\u00e1tn\u00ed \u00fa\u0159edn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "284",
+            "itemLabel": "Josef Zieleniec",
+            "birthDate": "1946-05-28T00:00:00Z",
+            "occupationLabel": "st\u00e1tn\u00ed \u00fa\u0159edn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "5683",
+            "itemLabel": "Josef Zieleniec",
+            "birthDate": "1946-05-28T00:00:00Z",
+            "occupationLabel": "st\u00e1tn\u00ed \u00fa\u0159edn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "340",
+            "itemLabel": "Vlasta Parkanov\u00e1",
+            "birthDate": "1951-11-21T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "5917",
+            "itemLabel": "Leo\u0161 Heger",
+            "birthDate": "1948-02-11T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5917",
+            "itemLabel": "Leo\u0161 Heger",
+            "birthDate": "1948-02-11T00:00:00Z",
+            "occupationLabel": "docent"
+        },
+        {
+            "czechParliamentIdLabel": "5917",
+            "itemLabel": "Leo\u0161 Heger",
+            "birthDate": "1948-02-11T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5917",
+            "itemLabel": "Leo\u0161 Heger",
+            "birthDate": "1948-02-11T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "171",
+            "itemLabel": "Milan Uhde",
+            "birthDate": "1936-07-28T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "171",
+            "itemLabel": "Milan Uhde",
+            "birthDate": "1936-07-28T00:00:00Z",
+            "occupationLabel": "b\u00e1sn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "171",
+            "itemLabel": "Milan Uhde",
+            "birthDate": "1936-07-28T00:00:00Z",
+            "occupationLabel": "dramatik"
+        },
+        {
+            "czechParliamentIdLabel": "171",
+            "itemLabel": "Milan Uhde",
+            "birthDate": "1936-07-28T00:00:00Z",
+            "occupationLabel": "kritik"
+        },
+        {
+            "czechParliamentIdLabel": "416",
+            "itemLabel": "Cyril Svoboda",
+            "birthDate": "1956-11-24T00:00:00Z",
+            "occupationLabel": "pr\u00e1vn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "416",
+            "itemLabel": "Cyril Svoboda",
+            "birthDate": "1956-11-24T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "209",
+            "itemLabel": "Pavel Dost\u00e1l",
+            "birthDate": "1943-02-25T00:00:00Z",
+            "occupationLabel": "herec"
+        },
+        {
+            "czechParliamentIdLabel": "209",
+            "itemLabel": "Pavel Dost\u00e1l",
+            "birthDate": "1943-02-25T00:00:00Z",
+            "occupationLabel": "dramatik"
+        },
+        {
+            "czechParliamentIdLabel": "209",
+            "itemLabel": "Pavel Dost\u00e1l",
+            "birthDate": "1943-02-25T00:00:00Z",
+            "occupationLabel": "um\u011blec"
+        },
+        {
+            "czechParliamentIdLabel": "209",
+            "itemLabel": "Pavel Dost\u00e1l",
+            "birthDate": "1943-02-25T00:00:00Z",
+            "occupationLabel": "dramaturg"
+        },
+        {
+            "czechParliamentIdLabel": "209",
+            "itemLabel": "Pavel Dost\u00e1l",
+            "birthDate": "1943-02-25T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "209",
+            "itemLabel": "Pavel Dost\u00e1l",
+            "birthDate": "1943-02-25T00:00:00Z",
+            "occupationLabel": "divadeln\u00ed re\u017eis\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "209",
+            "itemLabel": "Pavel Dost\u00e1l",
+            "birthDate": "1943-02-25T00:00:00Z",
+            "occupationLabel": "re\u017eis\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "209",
+            "itemLabel": "Pavel Dost\u00e1l",
+            "birthDate": "1943-02-25T00:00:00Z",
+            "occupationLabel": "publicista"
+        },
+        {
+            "czechParliamentIdLabel": "5490",
+            "itemLabel": "Pavel Ploc",
+            "birthDate": "1964-06-15T00:00:00Z",
+            "occupationLabel": "skokan na ly\u017e\u00edch"
+        },
+        {
+            "czechParliamentIdLabel": "5895",
+            "itemLabel": "Pavel B\u00e9m",
+            "birthDate": "1963-07-18T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5895",
+            "itemLabel": "Pavel B\u00e9m",
+            "birthDate": "1963-07-18T00:00:00Z",
+            "occupationLabel": "psychiatr"
+        },
+        {
+            "czechParliamentIdLabel": "5974",
+            "itemLabel": "Ji\u0159\u00ed \u0160l\u00e9gr",
+            "birthDate": "1971-05-30T00:00:00Z",
+            "occupationLabel": "hokejista"
+        },
+        {
+            "czechParliamentIdLabel": "6007",
+            "itemLabel": "Bohuslav Svoboda",
+            "birthDate": "1944-02-08T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6007",
+            "itemLabel": "Bohuslav Svoboda",
+            "birthDate": "1944-02-08T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6007",
+            "itemLabel": "Bohuslav Svoboda",
+            "birthDate": "1944-02-08T00:00:00Z",
+            "occupationLabel": "gynekolog"
+        },
+        {
+            "czechParliamentIdLabel": "237",
+            "itemLabel": "Bohuslav Sobotka",
+            "birthDate": "1971-10-23T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "237",
+            "itemLabel": "Bohuslav Sobotka",
+            "birthDate": "1971-10-23T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "377",
+            "itemLabel": "Miroslav Kalousek",
+            "birthDate": "1960-12-12T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "377",
+            "itemLabel": "Miroslav Kalousek",
+            "birthDate": "1960-12-17T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6802",
+            "itemLabel": "Pavel Svoboda",
+            "birthDate": "1987-01-01T00:00:00Z",
+            "occupationLabel": "varhan\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6802",
+            "itemLabel": "Pavel Svoboda",
+            "birthDate": "1987-01-01T00:00:00Z",
+            "occupationLabel": "cembalista"
+        },
+        {
+            "czechParliamentIdLabel": "405",
+            "itemLabel": "Miroslav Ouzk\u00fd",
+            "birthDate": "1958-08-18T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "303",
+            "itemLabel": "Vojt\u011bch Filip",
+            "birthDate": "1955-01-13T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "252",
+            "itemLabel": "Lubom\u00edr Zaor\u00e1lek",
+            "birthDate": "1956-09-06T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "5264",
+            "itemLabel": "Libor Rou\u010dek",
+            "birthDate": "1954-09-04T00:00:00Z",
+            "occupationLabel": "politolog"
+        },
+        {
+            "czechParliamentIdLabel": "5264",
+            "itemLabel": "Libor Rou\u010dek",
+            "birthDate": "1954-09-04T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "152",
+            "itemLabel": "Jan Str\u00e1sk\u00fd",
+            "birthDate": "1940-12-24T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "152",
+            "itemLabel": "Jan Str\u00e1sk\u00fd",
+            "birthDate": "1940-12-24T00:00:00Z",
+            "occupationLabel": "bank\u00e9\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6433",
+            "itemLabel": "Ivan Barto\u0161",
+            "birthDate": "1980-03-20T00:00:00Z",
+            "occupationLabel": "informatik"
+        },
+        {
+            "czechParliamentIdLabel": "6433",
+            "itemLabel": "Ivan Barto\u0161",
+            "birthDate": "1980-03-20T00:00:00Z",
+            "occupationLabel": "hudebn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6433",
+            "itemLabel": "Ivan Barto\u0161",
+            "birthDate": "1980-03-20T00:00:00Z",
+            "occupationLabel": "softwarov\u00fd architekt"
+        },
+        {
+            "czechParliamentIdLabel": "311",
+            "itemLabel": "Miloslav Ransdorf",
+            "birthDate": "1953-02-15T00:00:00Z",
+            "occupationLabel": "historik"
+        },
+        {
+            "czechParliamentIdLabel": "311",
+            "itemLabel": "Miloslav Ransdorf",
+            "birthDate": "1953-02-15T00:00:00Z",
+            "occupationLabel": "filozof"
+        },
+        {
+            "czechParliamentIdLabel": "6138",
+            "itemLabel": "Pavel B\u011blobr\u00e1dek",
+            "birthDate": "1976-12-25T00:00:00Z",
+            "occupationLabel": "veterin\u00e1rn\u00ed l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "450",
+            "itemLabel": "Jan Kavan",
+            "birthDate": "1946-10-17T00:00:00Z",
+            "occupationLabel": "diplomat"
+        },
+        {
+            "czechParliamentIdLabel": "450",
+            "itemLabel": "Jan Kavan",
+            "birthDate": "1946-10-17T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "450",
+            "itemLabel": "Jan Kavan",
+            "birthDate": "1946-10-17T00:00:00Z",
+            "occupationLabel": "esejista"
+        },
+        {
+            "czechParliamentIdLabel": "310",
+            "itemLabel": "Ji\u0159\u00ed Ma\u0161t\u00e1lka",
+            "birthDate": "1956-01-03T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5480",
+            "itemLabel": "Ond\u0159ej Li\u0161ka",
+            "birthDate": "1977-07-14T00:00:00Z",
+            "occupationLabel": "ministr"
+        },
+        {
+            "czechParliamentIdLabel": "6492",
+            "itemLabel": "Ivo Vondr\u00e1k",
+            "birthDate": "1959-04-15T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "6492",
+            "itemLabel": "Ivo Vondr\u00e1k",
+            "birthDate": "1959-04-15T00:00:00Z",
+            "occupationLabel": "informatik"
+        },
+        {
+            "czechParliamentIdLabel": "6492",
+            "itemLabel": "Ivo Vondr\u00e1k",
+            "birthDate": "1959-04-15T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6453",
+            "itemLabel": "Milan Hnili\u010dka",
+            "birthDate": "1973-06-25T00:00:00Z",
+            "occupationLabel": "hokejista"
+        },
+        {
+            "czechParliamentIdLabel": "5914",
+            "itemLabel": "Petr Gazd\u00edk",
+            "birthDate": "1974-06-26T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5406",
+            "itemLabel": "David Rath",
+            "birthDate": "1965-12-25T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5406",
+            "itemLabel": "David Rath",
+            "birthDate": "1965-12-25T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5323",
+            "itemLabel": "Marian Bielesz",
+            "birthDate": "1963-11-14T00:00:00Z",
+            "occupationLabel": "veterin\u00e1rn\u00ed l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "123",
+            "itemLabel": "Jaroslav Ortman",
+            "birthDate": "1952-09-29T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "172",
+            "itemLabel": "Josef Ullmann",
+            "birthDate": "1944-03-27T00:00:00Z",
+            "occupationLabel": "architekt"
+        },
+        {
+            "czechParliamentIdLabel": "6784",
+            "itemLabel": "David \u0160imek",
+            "birthDate": "1977-03-21T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "355",
+            "itemLabel": "Ivan David",
+            "birthDate": "1952-09-24T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "355",
+            "itemLabel": "Ivan David",
+            "birthDate": "1952-09-24T00:00:00Z",
+            "occupationLabel": "psychiatr"
+        },
+        {
+            "czechParliamentIdLabel": "272",
+            "itemLabel": "Ivan Pilip",
+            "birthDate": "1963-08-04T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "5261",
+            "itemLabel": "Ji\u0159\u00ed Dolej\u0161",
+            "birthDate": "1961-01-24T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "5261",
+            "itemLabel": "Ji\u0159\u00ed Dolej\u0161",
+            "birthDate": "1961-01-24T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5466",
+            "itemLabel": "Kate\u0159ina Burs\u00edkov\u00e1 Jacques",
+            "birthDate": "1971-06-02T00:00:00Z",
+            "occupationLabel": "aktivista"
+        },
+        {
+            "czechParliamentIdLabel": "6498",
+            "itemLabel": "V\u00e1clav Klaus mlad\u0161\u00ed",
+            "birthDate": "1969-09-10T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6498",
+            "itemLabel": "V\u00e1clav Klaus mlad\u0161\u00ed",
+            "birthDate": "1969-09-10T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6498",
+            "itemLabel": "V\u00e1clav Klaus mlad\u0161\u00ed",
+            "birthDate": "1969-09-10T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6498",
+            "itemLabel": "V\u00e1clav Klaus mlad\u0161\u00ed",
+            "birthDate": "1969-09-10T00:00:00Z",
+            "occupationLabel": "\u0161achista"
+        },
+        {
+            "czechParliamentIdLabel": "148",
+            "itemLabel": "Jaroslav Soural",
+            "birthDate": "1953-04-02T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5217",
+            "itemLabel": "Jaroslav Tvrd\u00edk",
+            "birthDate": "1968-09-11T00:00:00Z",
+            "occupationLabel": "voj\u00e1k"
+        },
+        {
+            "czechParliamentIdLabel": "173",
+            "itemLabel": "Jaroslav Unger",
+            "birthDate": "1959-12-28T00:00:00Z",
+            "occupationLabel": "tren\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "5513",
+            "itemLabel": "Jeron\u00fdm Tejc",
+            "birthDate": "1977-08-23T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "113",
+            "itemLabel": "Jind\u0159ich N\u011bm\u010d\u00edk",
+            "birthDate": "1949-07-11T00:00:00Z",
+            "occupationLabel": "sociolog"
+        },
+        {
+            "czechParliamentIdLabel": "5922",
+            "itemLabel": "Jitka Chal\u00e1nkov\u00e1",
+            "birthDate": "1957-03-23T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5293",
+            "itemLabel": "Jitka Gruntov\u00e1",
+            "birthDate": "1945-05-08T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "126",
+            "itemLabel": "Ji\u0159ina Pavl\u00edkov\u00e1",
+            "birthDate": "1953-02-15T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "126",
+            "itemLabel": "Ji\u0159ina Pavl\u00edkov\u00e1",
+            "birthDate": "1953-02-15T00:00:00Z",
+            "occupationLabel": "kunsthistorik"
+        },
+        {
+            "czechParliamentIdLabel": "126",
+            "itemLabel": "Ji\u0159ina Pavl\u00edkov\u00e1",
+            "birthDate": "1953-02-15T00:00:00Z",
+            "occupationLabel": "pam\u00e1tk\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "351",
+            "itemLabel": "Ji\u0159\u00ed Brtnick\u00fd",
+            "birthDate": "1948-01-07T00:00:00Z",
+            "occupationLabel": "mal\u00ed\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6",
+            "itemLabel": "Ji\u0159\u00ed B\u00edl\u00fd",
+            "birthDate": "1952-10-18T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "359",
+            "itemLabel": "Ji\u0159\u00ed Drda",
+            "birthDate": "1947-05-26T00:00:00Z",
+            "occupationLabel": "konstrukt\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "32",
+            "itemLabel": "Ji\u0159\u00ed Faifr",
+            "birthDate": "1962-10-12T00:00:00Z",
+            "occupationLabel": "bank\u00e9\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5433",
+            "itemLabel": "Ji\u0159\u00ed Koskuba",
+            "birthDate": "1955-12-14T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "116",
+            "itemLabel": "Ji\u0159\u00ed Nov\u00e1k",
+            "birthDate": "1950-04-11T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "5951",
+            "itemLabel": "Ji\u0159\u00ed Oliva",
+            "birthDate": "1952-04-15T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5487",
+            "itemLabel": "Ji\u0159\u00ed Petr\u016f",
+            "birthDate": "1956-08-17T00:00:00Z",
+            "occupationLabel": "stavebn\u00ed in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "5492",
+            "itemLabel": "Ji\u0159\u00ed Polansk\u00fd",
+            "birthDate": "1950-07-25T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "5993",
+            "itemLabel": "Ji\u0159\u00ed Rusnok",
+            "birthDate": "1983-07-21T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "4737",
+            "itemLabel": "Ji\u0159\u00ed Rusnok",
+            "birthDate": "1960-10-16T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "5964",
+            "itemLabel": "Ji\u0159\u00ed Skalick\u00fd",
+            "birthDate": "1954-08-03T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5964",
+            "itemLabel": "Ji\u0159\u00ed Skalick\u00fd",
+            "birthDate": "1954-08-03T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5663",
+            "itemLabel": "Ji\u0159\u00ed Skalick\u00fd",
+            "birthDate": "1956-04-26T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "294",
+            "itemLabel": "Ji\u0159\u00ed Skalick\u00fd",
+            "birthDate": "1956-04-26T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "5663",
+            "itemLabel": "Ji\u0159\u00ed Skalick\u00fd",
+            "birthDate": "1956-04-26T00:00:00Z",
+            "occupationLabel": "chemik"
+        },
+        {
+            "czechParliamentIdLabel": "294",
+            "itemLabel": "Ji\u0159\u00ed Skalick\u00fd",
+            "birthDate": "1956-04-26T00:00:00Z",
+            "occupationLabel": "chemik"
+        },
+        {
+            "czechParliamentIdLabel": "6155",
+            "itemLabel": "Ji\u0159\u00ed Zimola",
+            "birthDate": "1971-03-28T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "5718",
+            "itemLabel": "Ji\u0159\u00ed Zlatu\u0161ka",
+            "birthDate": "1957-09-15T00:00:00Z",
+            "occupationLabel": "informatik"
+        },
+        {
+            "czechParliamentIdLabel": "5718",
+            "itemLabel": "Ji\u0159\u00ed Zlatu\u0161ka",
+            "birthDate": "1957-09-15T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5975",
+            "itemLabel": "Ji\u0159\u00ed \u0160t\u011btina",
+            "birthDate": "1941-08-09T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5901",
+            "itemLabel": "Josef Cogan",
+            "birthDate": "1973-08-26T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "52",
+            "itemLabel": "Josef Hurta",
+            "birthDate": "1936-02-24T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "337",
+            "itemLabel": "Josef Mol\u00edn",
+            "birthDate": "1945-07-16T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5991",
+            "itemLabel": "Josef Novotn\u00fd",
+            "birthDate": "1952-12-14T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "196",
+            "itemLabel": "Eduard Zeman",
+            "birthDate": "1948-04-11T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "55",
+            "itemLabel": "Emil Jaro\u0161",
+            "birthDate": "1943-11-21T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "297",
+            "itemLabel": "Vil\u00e9m Hol\u00e1\u0148",
+            "birthDate": "1938-09-23T00:00:00Z",
+            "occupationLabel": "informatik"
+        },
+        {
+            "czechParliamentIdLabel": "6797",
+            "itemLabel": "Vladim\u00edr Bala\u0161",
+            "birthDate": "1959-04-20T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "203",
+            "itemLabel": "Vladim\u00edr Cis\u00e1r",
+            "birthDate": "1955-11-10T00:00:00Z",
+            "occupationLabel": "historik"
+        },
+        {
+            "czechParliamentIdLabel": "203",
+            "itemLabel": "Vladim\u00edr Cis\u00e1r",
+            "birthDate": "1955-11-10T00:00:00Z",
+            "occupationLabel": "archeolog"
+        },
+        {
+            "czechParliamentIdLabel": "203",
+            "itemLabel": "Vladim\u00edr Cis\u00e1r",
+            "birthDate": "1955-11-10T00:00:00Z",
+            "occupationLabel": "muzeolog"
+        },
+        {
+            "czechParliamentIdLabel": "5455",
+            "itemLabel": "Vladim\u00edr Dlouh\u00fd",
+            "birthDate": "1950-01-20T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "370",
+            "itemLabel": "Vladim\u00edr Hradil",
+            "birthDate": "1947-08-10T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5313",
+            "itemLabel": "Vladim\u00edr Kon\u00ed\u010dek",
+            "birthDate": "1964-02-23T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "73",
+            "itemLabel": "Vladim\u00edr Koronth\u00e1ly",
+            "birthDate": "1951-05-20T00:00:00Z",
+            "occupationLabel": "muzikolog"
+        },
+        {
+            "czechParliamentIdLabel": "226",
+            "itemLabel": "Vladim\u00edr La\u0161t\u016fvka",
+            "birthDate": "1943-06-08T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "5262",
+            "itemLabel": "Vladim\u00edr \u0158\u00edha",
+            "birthDate": "1949-03-17T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "242",
+            "itemLabel": "Vlasta \u0160t\u011bpov\u00e1",
+            "birthDate": "1938-06-07T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "242",
+            "itemLabel": "Vlasta \u0160t\u011bpov\u00e1",
+            "birthDate": "1938-06-07T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5312",
+            "itemLabel": "Vlastislav Antol\u00e1k",
+            "birthDate": "1942-04-27T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "360",
+            "itemLabel": "Eva Dund\u00e1\u010dkov\u00e1",
+            "birthDate": "1964-06-11T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "119",
+            "itemLabel": "Eva Nov\u00e1kov\u00e1",
+            "birthDate": "1938-01-18T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5657",
+            "itemLabel": "Eva Nov\u00e1kov\u00e1",
+            "birthDate": "1938-01-18T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5254",
+            "itemLabel": "Eva Nov\u00e1kov\u00e1",
+            "birthDate": "1955-07-29T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5900",
+            "itemLabel": "V\u00e1clav Cemp\u00edrek",
+            "birthDate": "1954-05-06T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "40",
+            "itemLabel": "V\u00e1clav Grulich",
+            "birthDate": "1932-05-08T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5300",
+            "itemLabel": "V\u00e1clav Mencl",
+            "birthDate": "1943-04-05T00:00:00Z",
+            "occupationLabel": "architekt"
+        },
+        {
+            "czechParliamentIdLabel": "5600",
+            "itemLabel": "V\u00e1clav Mencl",
+            "birthDate": "1943-04-05T00:00:00Z",
+            "occupationLabel": "architekt"
+        },
+        {
+            "czechParliamentIdLabel": "5300",
+            "itemLabel": "V\u00e1clav Mencl",
+            "birthDate": "1943-04-05T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5600",
+            "itemLabel": "V\u00e1clav Mencl",
+            "birthDate": "1943-04-05T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5949",
+            "itemLabel": "V\u00edt N\u011bme\u010dek",
+            "birthDate": "1962-01-22T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5467",
+            "itemLabel": "V\u011bra Jakubkov\u00e1",
+            "birthDate": "1964-06-16T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6203",
+            "itemLabel": "V\u011bra Jourov\u00e1",
+            "birthDate": "1964-08-18T00:00:00Z",
+            "occupationLabel": "pr\u00e1vn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "76",
+            "itemLabel": "Franti\u0161ek Kozel",
+            "birthDate": "1944-03-16T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5476",
+            "itemLabel": "Franti\u0161ek Laud\u00e1t",
+            "birthDate": "1960-03-13T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5476",
+            "itemLabel": "Franti\u0161ek Laud\u00e1t",
+            "birthDate": "1960-03-13T00:00:00Z",
+            "occupationLabel": "technik"
+        },
+        {
+            "czechParliamentIdLabel": "5287",
+            "itemLabel": "Franti\u0161ek Pelc",
+            "birthDate": "1962-10-04T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5299",
+            "itemLabel": "Franti\u0161ek Strnad",
+            "birthDate": "1944-02-07T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "167",
+            "itemLabel": "Franti\u0161ek Trnka",
+            "birthDate": "1931-03-19T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5224",
+            "itemLabel": "Svatopluk Kar\u00e1sek",
+            "birthDate": "1942-10-18T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "5224",
+            "itemLabel": "Svatopluk Kar\u00e1sek",
+            "birthDate": "1942-10-18T00:00:00Z",
+            "occupationLabel": "b\u00e1sn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "5224",
+            "itemLabel": "Svatopluk Kar\u00e1sek",
+            "birthDate": "1942-10-18T00:00:00Z",
+            "occupationLabel": "autor"
+        },
+        {
+            "czechParliamentIdLabel": "5224",
+            "itemLabel": "Svatopluk Kar\u00e1sek",
+            "birthDate": "1942-10-18T00:00:00Z",
+            "occupationLabel": "p\u00edsni\u010dk\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5224",
+            "itemLabel": "Svatopluk Kar\u00e1sek",
+            "birthDate": "1942-10-18T00:00:00Z",
+            "occupationLabel": "far\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5224",
+            "itemLabel": "Svatopluk Kar\u00e1sek",
+            "birthDate": "1942-10-18T00:00:00Z",
+            "occupationLabel": "kastel\u00e1n"
+        },
+        {
+            "czechParliamentIdLabel": "5325",
+            "itemLabel": "Ta\u0165ana Fischerov\u00e1",
+            "birthDate": "1947-06-06T00:00:00Z",
+            "occupationLabel": "herec"
+        },
+        {
+            "czechParliamentIdLabel": "5325",
+            "itemLabel": "Ta\u0165ana Fischerov\u00e1",
+            "birthDate": "1947-06-06T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "5325",
+            "itemLabel": "Ta\u0165ana Fischerov\u00e1",
+            "birthDate": "1947-06-06T00:00:00Z",
+            "occupationLabel": "televizn\u00ed moder\u00e1tor"
+        },
+        {
+            "czechParliamentIdLabel": "5325",
+            "itemLabel": "Ta\u0165ana Fischerov\u00e1",
+            "birthDate": "1947-06-06T00:00:00Z",
+            "occupationLabel": "politick\u00fd aktivista"
+        },
+        {
+            "czechParliamentIdLabel": "5265",
+            "itemLabel": "Josef \u0158ih\u00e1k",
+            "birthDate": "1959-04-25T00:00:00Z",
+            "occupationLabel": "veterin\u00e1rn\u00ed l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5916",
+            "itemLabel": "Alena Han\u00e1kov\u00e1",
+            "birthDate": "1958-09-01T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "266",
+            "itemLabel": "Ivan Langer",
+            "birthDate": "1967-01-01T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "266",
+            "itemLabel": "Ivan Langer",
+            "birthDate": "1967-01-01T00:00:00Z",
+            "occupationLabel": "pr\u00e1vn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "5905",
+            "itemLabel": "Jarom\u00edr Dr\u00e1bek",
+            "birthDate": "1965-03-05T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "5896",
+            "itemLabel": "Ji\u0159\u00ed Besser",
+            "birthDate": "1957-08-04T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "389",
+            "itemLabel": "Karel K\u00fchnl",
+            "birthDate": "1954-09-12T00:00:00Z",
+            "occupationLabel": "diplomat"
+        },
+        {
+            "czechParliamentIdLabel": "295",
+            "itemLabel": "Libor Ambrozek",
+            "birthDate": "1966-08-02T00:00:00Z",
+            "occupationLabel": "botanik"
+        },
+        {
+            "czechParliamentIdLabel": "305",
+            "itemLabel": "Miroslav Greben\u00ed\u010dek",
+            "birthDate": "1947-03-21T00:00:00Z",
+            "occupationLabel": "historik"
+        },
+        {
+            "czechParliamentIdLabel": "305",
+            "itemLabel": "Miroslav Greben\u00ed\u010dek",
+            "birthDate": "1947-03-21T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6079",
+            "itemLabel": "Pavel Bla\u017eek",
+            "birthDate": "1969-04-08T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6074",
+            "itemLabel": "Petr Fiala",
+            "birthDate": "1964-09-01T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6074",
+            "itemLabel": "Petr Fiala",
+            "birthDate": "1964-09-01T00:00:00Z",
+            "occupationLabel": "politolog"
+        },
+        {
+            "czechParliamentIdLabel": "346",
+            "itemLabel": "Petr Bendl",
+            "birthDate": "1966-01-24T00:00:00Z",
+            "occupationLabel": "p\u00edsni\u010dk\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "285",
+            "itemLabel": "Jaroslav Zv\u011b\u0159ina",
+            "birthDate": "1942-12-18T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "285",
+            "itemLabel": "Jaroslav Zv\u011b\u0159ina",
+            "birthDate": "1942-12-18T00:00:00Z",
+            "occupationLabel": "badatel"
+        },
+        {
+            "czechParliamentIdLabel": "353",
+            "itemLabel": "Milan Cabrnoch",
+            "birthDate": "1962-08-06T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5770",
+            "itemLabel": "Zuzana Brzobohat\u00e1",
+            "birthDate": "1962-07-11T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "22",
+            "itemLabel": "Jan \u010cern\u00fd",
+            "birthDate": "1959-04-23T00:00:00Z",
+            "occupationLabel": "veterin\u00e1rn\u00ed l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "204",
+            "itemLabel": "Franti\u0161ek Ringo \u010cech",
+            "birthDate": "1943-07-09T00:00:00Z",
+            "occupationLabel": "herec"
+        },
+        {
+            "czechParliamentIdLabel": "204",
+            "itemLabel": "Franti\u0161ek Ringo \u010cech",
+            "birthDate": "1943-07-09T00:00:00Z",
+            "occupationLabel": "dramaturg"
+        },
+        {
+            "czechParliamentIdLabel": "204",
+            "itemLabel": "Franti\u0161ek Ringo \u010cech",
+            "birthDate": "1943-07-09T00:00:00Z",
+            "occupationLabel": "hudebn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "204",
+            "itemLabel": "Franti\u0161ek Ringo \u010cech",
+            "birthDate": "1943-07-09T00:00:00Z",
+            "occupationLabel": "mal\u00ed\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "204",
+            "itemLabel": "Franti\u0161ek Ringo \u010cech",
+            "birthDate": "1943-07-09T00:00:00Z",
+            "occupationLabel": "grafik"
+        },
+        {
+            "czechParliamentIdLabel": "204",
+            "itemLabel": "Franti\u0161ek Ringo \u010cech",
+            "birthDate": "1943-07-09T00:00:00Z",
+            "occupationLabel": "publicista"
+        },
+        {
+            "czechParliamentIdLabel": "204",
+            "itemLabel": "Franti\u0161ek Ringo \u010cech",
+            "birthDate": "1943-07-09T00:00:00Z",
+            "occupationLabel": "jazzov\u00fd hudebn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "1296",
+            "itemLabel": "Petr Gandalovi\u010d",
+            "birthDate": "1964-08-15T00:00:00Z",
+            "occupationLabel": "diplomat"
+        },
+        {
+            "czechParliamentIdLabel": "5924",
+            "itemLabel": "Tom\u00e1\u0161 Chalupa",
+            "birthDate": "1974-07-03T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "5924",
+            "itemLabel": "Tom\u00e1\u0161 Chalupa",
+            "birthDate": "1974-07-03T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "398",
+            "itemLabel": "Vladim\u00edr Mlyn\u00e1\u0159",
+            "birthDate": "1966-01-15T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "398",
+            "itemLabel": "Vladim\u00edr Mlyn\u00e1\u0159",
+            "birthDate": "1966-01-15T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "299",
+            "itemLabel": "Josef Lux",
+            "birthDate": "1956-02-01T00:00:00Z",
+            "occupationLabel": "zootechnik"
+        },
+        {
+            "czechParliamentIdLabel": "5700",
+            "itemLabel": "Ivan Adamec",
+            "birthDate": "1960-03-21T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5439",
+            "itemLabel": "Ivan Adamec",
+            "birthDate": "1960-03-21T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "276",
+            "itemLabel": "Jan Ruml",
+            "birthDate": "1953-03-05T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6142",
+            "itemLabel": "Daniel Herman",
+            "birthDate": "1963-04-28T00:00:00Z",
+            "occupationLabel": "katolick\u00fd kn\u011bz"
+        },
+        {
+            "czechParliamentIdLabel": "6142",
+            "itemLabel": "Daniel Herman",
+            "birthDate": "1963-04-28T00:00:00Z",
+            "occupationLabel": "teolog"
+        },
+        {
+            "czechParliamentIdLabel": "5375",
+            "itemLabel": "Jozef Kochan",
+            "birthDate": "1946-03-17T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5316",
+            "itemLabel": "Jozef Kubinyi",
+            "birthDate": "1955-07-21T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "95",
+            "itemLabel": "Karel Mach",
+            "birthDate": "1960-06-17T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6158",
+            "itemLabel": "Karel Rais",
+            "birthDate": "1949-10-14T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "6158",
+            "itemLabel": "Karel Rais",
+            "birthDate": "1949-10-14T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6158",
+            "itemLabel": "Karel Rais",
+            "birthDate": "1949-10-14T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "354",
+            "itemLabel": "Karel \u010cern\u00fd",
+            "birthDate": "1965-01-12T00:00:00Z",
+            "occupationLabel": "historik"
+        },
+        {
+            "czechParliamentIdLabel": "354",
+            "itemLabel": "Karel \u010cern\u00fd",
+            "birthDate": "1965-01-12T00:00:00Z",
+            "occupationLabel": "publicista"
+        },
+        {
+            "czechParliamentIdLabel": "419",
+            "itemLabel": "Karel \u0160pl\u00edchal",
+            "birthDate": "1946-10-14T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "419",
+            "itemLabel": "Karel \u0160pl\u00edchal",
+            "birthDate": "1946-11-14T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "92",
+            "itemLabel": "Kate\u0159ina Lojdov\u00e1",
+            "birthDate": "1961-03-02T00:00:00Z",
+            "occupationLabel": "herec"
+        },
+        {
+            "czechParliamentIdLabel": "5888",
+            "itemLabel": "Kl\u00e1ra Sl\u00e1mov\u00e1",
+            "birthDate": "1977-08-27T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "221",
+            "itemLabel": "Kv\u011btoslava Ko\u0159\u00ednkov\u00e1",
+            "birthDate": "1940-07-10T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5930",
+            "itemLabel": "Ladislav Jirk\u016f",
+            "birthDate": "1946-06-04T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5522",
+            "itemLabel": "Ladislava Zelenkov\u00e1",
+            "birthDate": "1949-04-07T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5414",
+            "itemLabel": "Lenka Mazuchov\u00e1",
+            "birthDate": "1958-07-07T00:00:00Z",
+            "occupationLabel": "st\u0159edo\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "5414",
+            "itemLabel": "Lenka Mazuchov\u00e1",
+            "birthDate": "1958-07-07T00:00:00Z",
+            "occupationLabel": "u\u010ditel na z\u00e1kladn\u00ed \u0161kole"
+        },
+        {
+            "czechParliamentIdLabel": "137",
+            "itemLabel": "Lud\u011bk Rub\u00e1\u0161",
+            "birthDate": "1953-07-16T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5482",
+            "itemLabel": "Marcela Mertinov\u00e1",
+            "birthDate": "1961-05-20T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6154",
+            "itemLabel": "Marek \u017den\u00ed\u0161ek",
+            "birthDate": "1978-11-26T00:00:00Z",
+            "occupationLabel": "politolog"
+        },
+        {
+            "czechParliamentIdLabel": "6136",
+            "itemLabel": "Marie Bene\u0161ov\u00e1",
+            "birthDate": "1948-04-17T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "394",
+            "itemLabel": "Marie Machat\u00e1",
+            "birthDate": "1954-05-09T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5296",
+            "itemLabel": "Marie Rusov\u00e1",
+            "birthDate": "1950-12-04T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "150",
+            "itemLabel": "Marie Stiborov\u00e1",
+            "birthDate": "1950-02-02T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "150",
+            "itemLabel": "Marie Stiborov\u00e1",
+            "birthDate": "1950-02-02T00:00:00Z",
+            "occupationLabel": "badatel"
+        },
+        {
+            "czechParliamentIdLabel": "150",
+            "itemLabel": "Marie Stiborov\u00e1",
+            "birthDate": "1950-02-02T00:00:00Z",
+            "occupationLabel": "biochemik"
+        },
+        {
+            "czechParliamentIdLabel": "5302",
+            "itemLabel": "Marta Bayerov\u00e1",
+            "birthDate": "1956-05-31T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5962",
+            "itemLabel": "Marta Semelov\u00e1",
+            "birthDate": "1960-03-01T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5915",
+            "itemLabel": "Martin Gregora",
+            "birthDate": "1965-04-10T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6140",
+            "itemLabel": "Martin Kom\u00e1rek",
+            "birthDate": "1961-02-13T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "6140",
+            "itemLabel": "Martin Kom\u00e1rek",
+            "birthDate": "1961-02-13T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "134",
+            "itemLabel": "Martin P\u0159ib\u00e1\u0148",
+            "birthDate": "1958-11-28T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "413",
+            "itemLabel": "Martin Starec",
+            "birthDate": "1962-04-10T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "443",
+            "itemLabel": "Martin Stropnick\u00fd",
+            "birthDate": "1956-12-19T00:00:00Z",
+            "occupationLabel": "herec"
+        },
+        {
+            "czechParliamentIdLabel": "443",
+            "itemLabel": "Martin Stropnick\u00fd",
+            "birthDate": "1956-12-19T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "443",
+            "itemLabel": "Martin Stropnick\u00fd",
+            "birthDate": "1956-12-19T00:00:00Z",
+            "occupationLabel": "diplomat"
+        },
+        {
+            "czechParliamentIdLabel": "443",
+            "itemLabel": "Martin Stropnick\u00fd",
+            "birthDate": "1956-12-19T00:00:00Z",
+            "occupationLabel": "re\u017eis\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "5928",
+            "itemLabel": "Michal Janek",
+            "birthDate": "1948-12-21T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5491",
+            "itemLabel": "Michal Pohanka",
+            "birthDate": "1969-04-13T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5491",
+            "itemLabel": "Michal Pohanka",
+            "birthDate": "1969-04-13T00:00:00Z",
+            "occupationLabel": "badatel"
+        },
+        {
+            "czechParliamentIdLabel": "293",
+            "itemLabel": "Michal Prokop",
+            "birthDate": "1946-08-13T00:00:00Z",
+            "occupationLabel": "zp\u011bv\u00e1k"
+        },
+        {
+            "czechParliamentIdLabel": "293",
+            "itemLabel": "Michal Prokop",
+            "birthDate": "1946-08-13T00:00:00Z",
+            "occupationLabel": "autor p\u00edsn\u00ed"
+        },
+        {
+            "czechParliamentIdLabel": "293",
+            "itemLabel": "Michal Prokop",
+            "birthDate": "1946-08-13T00:00:00Z",
+            "occupationLabel": "nahr\u00e1vaj\u00edc\u00ed um\u011blec"
+        },
+        {
+            "czechParliamentIdLabel": "5461",
+            "itemLabel": "Milada Hal\u00edkov\u00e1",
+            "birthDate": "1950-01-06T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5295",
+            "itemLabel": "Milan Bi\u010d\u00edk",
+            "birthDate": "1949-12-17T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "336",
+            "itemLabel": "Milan Kyn\u010dl",
+            "birthDate": "1940-01-02T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "432",
+            "itemLabel": "Milan Zuna",
+            "birthDate": "1941-05-30T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "5326",
+            "itemLabel": "Milan \u0160imonovsk\u00fd",
+            "birthDate": "1949-02-17T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "72",
+            "itemLabel": "Milena Kol\u00e1\u0159ov\u00e1",
+            "birthDate": "1960-06-26T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "72",
+            "itemLabel": "Milena Kol\u00e1\u0159ov\u00e1",
+            "birthDate": "1960-06-26T00:00:00Z",
+            "occupationLabel": "gynekolog"
+        },
+        {
+            "czechParliamentIdLabel": "223",
+            "itemLabel": "Miloslav Ku\u010dera",
+            "birthDate": "1942-03-04T00:00:00Z",
+            "occupationLabel": "re\u017eis\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "388",
+            "itemLabel": "Miloslav Ku\u010dera",
+            "birthDate": "1942-03-04T00:00:00Z",
+            "occupationLabel": "re\u017eis\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "193",
+            "itemLabel": "Miloslav V\u00fdborn\u00fd",
+            "birthDate": "1952-02-19T00:00:00Z",
+            "occupationLabel": "soudce"
+        },
+        {
+            "czechParliamentIdLabel": "193",
+            "itemLabel": "Miloslav V\u00fdborn\u00fd",
+            "birthDate": "1952-02-19T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "230",
+            "itemLabel": "Milo\u0161 Mel\u010d\u00e1k",
+            "birthDate": "1939-04-19T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "246",
+            "itemLabel": "Milo\u0161 Titz",
+            "birthDate": "1939-06-01T00:00:00Z",
+            "occupationLabel": "chemik"
+        },
+        {
+            "czechParliamentIdLabel": "246",
+            "itemLabel": "Milo\u0161 Titz",
+            "birthDate": "1939-06-01T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "213",
+            "itemLabel": "Miroslav Gr\u00e9gr",
+            "birthDate": "1929-12-13T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "65",
+            "itemLabel": "Miroslav Ka\u0161p\u00e1rek",
+            "birthDate": "1940-04-06T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "316",
+            "itemLabel": "Miroslav Vacek",
+            "birthDate": "1935-08-29T00:00:00Z",
+            "occupationLabel": "voj\u00e1k"
+        },
+        {
+            "czechParliamentIdLabel": "17",
+            "itemLabel": "Miroslav \u010capek",
+            "birthDate": "1961-09-20T00:00:00Z",
+            "occupationLabel": "soudce"
+        },
+        {
+            "czechParliamentIdLabel": "20",
+            "itemLabel": "Miroslav \u010cerb\u00e1k",
+            "birthDate": "1936-02-23T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5868",
+            "itemLabel": "Monika Ha\u0161kov\u00e1",
+            "birthDate": "1968-11-15T00:00:00Z",
+            "occupationLabel": "re\u017eis\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "87",
+            "itemLabel": "Old\u0159ich Ku\u017e\u00edlek",
+            "birthDate": "1956-01-04T00:00:00Z",
+            "occupationLabel": "re\u017eis\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "282",
+            "itemLabel": "Old\u0159ich Voj\u00ed\u0159",
+            "birthDate": "1961-08-13T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6707",
+            "itemLabel": "Olga Sommerov\u00e1",
+            "birthDate": "1949-08-02T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "6707",
+            "itemLabel": "Olga Sommerov\u00e1",
+            "birthDate": "1949-08-02T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6707",
+            "itemLabel": "Olga Sommerov\u00e1",
+            "birthDate": "1949-08-02T00:00:00Z",
+            "occupationLabel": "filmov\u00fd re\u017eis\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "6707",
+            "itemLabel": "Olga Sommerov\u00e1",
+            "birthDate": "1949-08-02T00:00:00Z",
+            "occupationLabel": "re\u017eis\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "6707",
+            "itemLabel": "Olga Sommerov\u00e1",
+            "birthDate": "1949-08-02T00:00:00Z",
+            "occupationLabel": "dokumentarista"
+        },
+        {
+            "czechParliamentIdLabel": "5523",
+            "itemLabel": "Olga Zubov\u00e1",
+            "birthDate": "1959-07-25T00:00:00Z",
+            "occupationLabel": "st\u0159edo\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6494",
+            "itemLabel": "Ond\u0159ej Vesel\u00fd",
+            "birthDate": "1976-05-03T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "5941",
+            "itemLabel": "Patricie Kotal\u00edkov\u00e1",
+            "birthDate": "1972-07-27T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5891",
+            "itemLabel": "Pavel Anton\u00edn",
+            "birthDate": "1962-06-05T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5891",
+            "itemLabel": "Pavel Anton\u00edn",
+            "birthDate": "1962-06-05T00:00:00Z",
+            "occupationLabel": "gynekolog"
+        },
+        {
+            "czechParliamentIdLabel": "286",
+            "itemLabel": "Pavel Bratinka",
+            "birthDate": "1946-03-14T00:00:00Z",
+            "occupationLabel": "fyzik"
+        },
+        {
+            "czechParliamentIdLabel": "5918",
+            "itemLabel": "Pavel Hol\u00edk",
+            "birthDate": "1957-05-23T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "403",
+            "itemLabel": "Pavel N\u011bmec",
+            "birthDate": "1971-07-20T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "5775",
+            "itemLabel": "Pavel N\u011bmec",
+            "birthDate": "1976-06-23T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "130",
+            "itemLabel": "Pavel Petr\u017e\u00edlek",
+            "birthDate": "1939-12-23T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "5242",
+            "itemLabel": "Pavel Pl\u00e1ni\u010dka",
+            "birthDate": "1956-03-03T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "58",
+            "itemLabel": "Tom\u00e1\u0161 Je\u017eek",
+            "birthDate": "1940-03-15T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "58",
+            "itemLabel": "Tom\u00e1\u0161 Je\u017eek",
+            "birthDate": "1940-03-15T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "5021",
+            "itemLabel": "Petr H\u00e1jek",
+            "birthDate": "1957-06-17T00:00:00Z",
+            "occupationLabel": "astronom"
+        },
+        {
+            "czechParliamentIdLabel": "5286",
+            "itemLabel": "Petr Kott",
+            "birthDate": "1962-09-11T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "201",
+            "itemLabel": "Petr Lom",
+            "birthDate": "1935-07-15T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "201",
+            "itemLabel": "Petr Lom",
+            "birthDate": "1935-07-15T00:00:00Z",
+            "occupationLabel": "diplomat"
+        },
+        {
+            "czechParliamentIdLabel": "201",
+            "itemLabel": "Petr Lom",
+            "birthDate": "1935-07-15T00:00:00Z",
+            "occupationLabel": "v\u00fdtvarn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "395",
+            "itemLabel": "Petr Mare\u0161",
+            "birthDate": "1953-01-15T00:00:00Z",
+            "occupationLabel": "historik"
+        },
+        {
+            "czechParliamentIdLabel": "395",
+            "itemLabel": "Petr Mare\u0161",
+            "birthDate": "1953-01-15T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "397",
+            "itemLabel": "Petr Mat\u011bj\u016f",
+            "birthDate": "1950-07-22T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "397",
+            "itemLabel": "Petr Mat\u011bj\u016f",
+            "birthDate": "1950-07-22T00:00:00Z",
+            "occupationLabel": "sociolog"
+        },
+        {
+            "czechParliamentIdLabel": "275",
+            "itemLabel": "Petr Pleva",
+            "birthDate": "1959-01-01T00:00:00Z",
+            "occupationLabel": "re\u017eis\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "275",
+            "itemLabel": "Petr Pleva",
+            "birthDate": "1959-06-13T00:00:00Z",
+            "occupationLabel": "re\u017eis\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "5521",
+            "itemLabel": "Petr Wolf",
+            "birthDate": "1960-06-11T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "21",
+            "itemLabel": "Petr \u010cerm\u00e1k",
+            "birthDate": "1953-01-22T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "16",
+            "itemLabel": "Petra Buzkov\u00e1",
+            "birthDate": "1965-12-07T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "5494",
+            "itemLabel": "P\u0159emysl Rabas",
+            "birthDate": "1963-08-13T00:00:00Z",
+            "occupationLabel": "\u00fa\u0159edn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "396",
+            "itemLabel": "Radko Mart\u00ednek",
+            "birthDate": "1956-06-06T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "27",
+            "itemLabel": "Robert Dost\u00e1l",
+            "birthDate": "1928-10-04T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5940",
+            "itemLabel": "Rom Kost\u0159ica",
+            "birthDate": "1949-03-13T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "5940",
+            "itemLabel": "Rom Kost\u0159ica",
+            "birthDate": "1949-03-13T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6532",
+            "itemLabel": "Roman Onderka",
+            "birthDate": "1965-11-11T00:00:00Z",
+            "occupationLabel": "vozmistr"
+        },
+        {
+            "czechParliamentIdLabel": "6532",
+            "itemLabel": "Roman Onderka",
+            "birthDate": "1965-11-11T00:00:00Z",
+            "occupationLabel": "odbor\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6161",
+            "itemLabel": "Rostislav Vyzula",
+            "birthDate": "1952-12-03T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6161",
+            "itemLabel": "Rostislav Vyzula",
+            "birthDate": "1952-12-03T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "208",
+            "itemLabel": "Rostislav \u010cevela",
+            "birthDate": "1953-01-01T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "208",
+            "itemLabel": "Rostislav \u010cevela",
+            "birthDate": "1953-03-02T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "121",
+            "itemLabel": "Rudolf Opat\u0159il",
+            "birthDate": "1959-08-15T00:00:00Z",
+            "occupationLabel": "diplomat"
+        },
+        {
+            "czechParliamentIdLabel": "5290",
+            "itemLabel": "So\u0148a Markov\u00e1",
+            "birthDate": "1963-02-25T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6143",
+            "itemLabel": "Stanislav Berkovec",
+            "birthDate": "1956-05-31T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "361",
+            "itemLabel": "Stanislav Fischer",
+            "birthDate": "1936-11-30T00:00:00Z",
+            "occupationLabel": "astronom"
+        },
+        {
+            "czechParliamentIdLabel": "5921",
+            "itemLabel": "Stanislav Huml",
+            "birthDate": "1955-07-30T00:00:00Z",
+            "occupationLabel": "policista"
+        },
+        {
+            "czechParliamentIdLabel": "131",
+            "itemLabel": "Stanislav P\u011bni\u010dka",
+            "birthDate": "1939-10-05T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "14",
+            "itemLabel": "Stanislava Bumbov\u00e1",
+            "birthDate": "1948-09-08T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "307",
+            "itemLabel": "Ta\u0165\u00e1na Jirousov\u00e1",
+            "birthDate": "1954-02-11T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "430",
+            "itemLabel": "Tom Zaj\u00ed\u010dek",
+            "birthDate": "1948-08-25T00:00:00Z",
+            "occupationLabel": "sociolog"
+        },
+        {
+            "czechParliamentIdLabel": "258",
+            "itemLabel": "Tom\u00e1\u0161 B\u0159ezina",
+            "birthDate": "1957-02-21T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "128",
+            "itemLabel": "Tom\u00e1\u0161 P\u00e1v",
+            "birthDate": "1937-09-22T00:00:00Z",
+            "occupationLabel": "fyzik"
+        },
+        {
+            "czechParliamentIdLabel": "5516",
+            "itemLabel": "Tom\u00e1\u0161 \u00dalehla",
+            "birthDate": "1965-01-14T00:00:00Z",
+            "occupationLabel": "hudebn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6246",
+            "itemLabel": "Josef Kott",
+            "birthDate": "1970-11-15T00:00:00Z",
+            "occupationLabel": "produktov\u00fd mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6418",
+            "itemLabel": "Jan Skope\u010dek",
+            "birthDate": "1980-10-21T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6531",
+            "itemLabel": "Vojt\u011bch Pikal",
+            "birthDate": "1987-02-19T00:00:00Z",
+            "occupationLabel": "v\u00fdvoj\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6531",
+            "itemLabel": "Vojt\u011bch Pikal",
+            "birthDate": "1987-02-19T00:00:00Z",
+            "occupationLabel": "wikipedista"
+        },
+        {
+            "czechParliamentIdLabel": "6442",
+            "itemLabel": "Luk\u00e1\u0161 \u010cernohorsk\u00fd",
+            "birthDate": "1984-11-19T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "6303",
+            "itemLabel": "Ji\u0159\u00ed Hlavat\u00fd",
+            "birthDate": "1948-07-29T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6729",
+            "itemLabel": "Ale\u0161 Dufek",
+            "birthDate": "1973-11-17T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6287",
+            "itemLabel": "Karla \u0160lechtov\u00e1",
+            "birthDate": "1977-05-22T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6443",
+            "itemLabel": "Jan \u010ci\u017einsk\u00fd",
+            "birthDate": "1978-04-22T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6443",
+            "itemLabel": "Jan \u010ci\u017einsk\u00fd",
+            "birthDate": "1978-04-22T00:00:00Z",
+            "occupationLabel": "st\u0159edo\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6487",
+            "itemLabel": "Patrik Nacher",
+            "birthDate": "1974-10-17T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6516",
+            "itemLabel": "Anton\u00edn Stan\u011bk",
+            "birthDate": "1966-03-02T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6516",
+            "itemLabel": "Anton\u00edn Stan\u011bk",
+            "birthDate": "1966-03-02T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6291",
+            "itemLabel": "Dan \u0164ok",
+            "birthDate": "1959-03-04T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "6444",
+            "itemLabel": "Petr Dol\u00ednek",
+            "birthDate": "1981-03-27T00:00:00Z",
+            "occupationLabel": "politolog"
+        },
+        {
+            "czechParliamentIdLabel": "6318",
+            "itemLabel": "Robert Pelik\u00e1n",
+            "birthDate": "1979-10-18T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6452",
+            "itemLabel": "Tom\u00e1\u0161 Hanzel",
+            "birthDate": "1975-12-10T00:00:00Z",
+            "occupationLabel": "elektroin\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "6337",
+            "itemLabel": "Kate\u0159ina Valachov\u00e1",
+            "birthDate": "1976-09-15T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6691",
+            "itemLabel": "Pavel \u0160indel\u00e1\u0159",
+            "birthDate": "1980-12-14T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6691",
+            "itemLabel": "Pavel \u0160indel\u00e1\u0159",
+            "birthDate": "1980-12-14T00:00:00Z",
+            "occupationLabel": "pr\u00e1vn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6519",
+            "itemLabel": "Jan \u0158ehounek",
+            "birthDate": "1974-10-27T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6524",
+            "itemLabel": "V\u00edt Raku\u0161an",
+            "birthDate": "1978-06-16T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6524",
+            "itemLabel": "V\u00edt Raku\u0161an",
+            "birthDate": "1978-06-16T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6724",
+            "itemLabel": "Josef Bernard",
+            "birthDate": "1965-05-30T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6734",
+            "itemLabel": "Petr Li\u0161ka",
+            "birthDate": "1970-03-16T00:00:00Z",
+            "occupationLabel": "stavebn\u00ed in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "6789",
+            "itemLabel": "Luk\u00e1\u0161 Vl\u010dek",
+            "birthDate": "1982-02-27T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6505",
+            "itemLabel": "Julius \u0160pi\u010d\u00e1k",
+            "birthDate": "1952-06-10T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6471",
+            "itemLabel": "Jana Mra\u010dkov\u00e1 Vildumetzov\u00e1",
+            "birthDate": "1973-05-08T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6774",
+            "itemLabel": "Pavel Kl\u00edma",
+            "birthDate": "1971-05-26T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6774",
+            "itemLabel": "Pavel Kl\u00edma",
+            "birthDate": "1971-05-26T00:00:00Z",
+            "occupationLabel": "kur\u00e1tor"
+        },
+        {
+            "czechParliamentIdLabel": "6774",
+            "itemLabel": "Pavel Kl\u00edma",
+            "birthDate": "1971-05-26T00:00:00Z",
+            "occupationLabel": "mal\u00ed\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6493",
+            "itemLabel": "Ji\u0159\u00ed Ventruba",
+            "birthDate": "1950-02-02T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6430",
+            "itemLabel": "Kl\u00e1ra Dost\u00e1lov\u00e1",
+            "birthDate": "1971-03-13T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6409",
+            "itemLabel": "Franti\u0161ek Petrt\u00fdl",
+            "birthDate": "1959-03-09T00:00:00Z",
+            "occupationLabel": "stavebn\u00ed in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "6799",
+            "itemLabel": "Ond\u0159ej Kol\u00e1\u0159",
+            "birthDate": "1984-03-13T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6437",
+            "itemLabel": "Josef B\u011blica",
+            "birthDate": "1978-07-16T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6769",
+            "itemLabel": "Hayato Okamura",
+            "birthDate": "1966-11-28T00:00:00Z",
+            "occupationLabel": "tlumo\u010dn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6510",
+            "itemLabel": "Karel Krejza",
+            "birthDate": "1968-02-12T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6438",
+            "itemLabel": "Stanislav Blaha",
+            "birthDate": "1969-12-13T00:00:00Z",
+            "occupationLabel": "strojn\u00ed in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "6545",
+            "itemLabel": "Alena Schillerov\u00e1",
+            "birthDate": "1964-03-18T00:00:00Z",
+            "occupationLabel": "pr\u00e1vn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6439",
+            "itemLabel": "Ji\u0159\u00ed Bl\u00e1ha",
+            "birthDate": "1961-08-26T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6468",
+            "itemLabel": "Ta\u0165\u00e1na Mal\u00e1",
+            "birthDate": "1981-10-01T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6468",
+            "itemLabel": "Ta\u0165\u00e1na Mal\u00e1",
+            "birthDate": "1981-10-01T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6482",
+            "itemLabel": "Vlastimil V\u00e1lek",
+            "birthDate": "1960-05-17T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6513",
+            "itemLabel": "Marek V\u00fdborn\u00fd",
+            "birthDate": "1976-07-10T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6488",
+            "itemLabel": "Mikul\u00e1\u0161 Peksa",
+            "birthDate": "1986-06-18T00:00:00Z",
+            "occupationLabel": "fyzik"
+        },
+        {
+            "czechParliamentIdLabel": "6528",
+            "itemLabel": "Jan Po\u0161v\u00e1\u0159",
+            "birthDate": "1985-05-16T00:00:00Z",
+            "occupationLabel": "program\u00e1tor"
+        },
+        {
+            "czechParliamentIdLabel": "6507",
+            "itemLabel": "Luk\u00e1\u0161 Kol\u00e1\u0159\u00edk",
+            "birthDate": "1984-03-05T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6455",
+            "itemLabel": "Jan Hrn\u010d\u00ed\u0159",
+            "birthDate": "1977-05-01T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6455",
+            "itemLabel": "Jan Hrn\u010d\u00ed\u0159",
+            "birthDate": "1977-05-01T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6456",
+            "itemLabel": "Tereza Hy\u0165hov\u00e1",
+            "birthDate": "1995-02-23T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6481",
+            "itemLabel": "Lubom\u00edr Voln\u00fd",
+            "birthDate": "1973-07-03T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6469",
+            "itemLabel": "Karla Ma\u0159\u00edkov\u00e1",
+            "birthDate": "1981-03-19T00:00:00Z",
+            "occupationLabel": "v\u0161eobecn\u00e1 sestra"
+        },
+        {
+            "czechParliamentIdLabel": "6473",
+            "itemLabel": "Olga Richterov\u00e1",
+            "birthDate": "1985-01-21T00:00:00Z",
+            "occupationLabel": "p\u0159ekladatel"
+        },
+        {
+            "czechParliamentIdLabel": "6473",
+            "itemLabel": "Olga Richterov\u00e1",
+            "birthDate": "1985-01-21T00:00:00Z",
+            "occupationLabel": "jazykov\u011bdec"
+        },
+        {
+            "czechParliamentIdLabel": "6254",
+            "itemLabel": "V\u011bra Ad\u00e1mkov\u00e1",
+            "birthDate": "1954-10-19T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6254",
+            "itemLabel": "V\u011bra Ad\u00e1mkov\u00e1",
+            "birthDate": "1954-10-19T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6254",
+            "itemLabel": "V\u011bra Ad\u00e1mkov\u00e1",
+            "birthDate": "1954-10-19T00:00:00Z",
+            "occupationLabel": "badatel"
+        },
+        {
+            "czechParliamentIdLabel": "6535",
+            "itemLabel": "Tom\u00e1\u0161 Mart\u00ednek",
+            "birthDate": "1986-01-23T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6535",
+            "itemLabel": "Tom\u00e1\u0161 Mart\u00ednek",
+            "birthDate": "1986-01-23T00:00:00Z",
+            "occupationLabel": "informatik"
+        },
+        {
+            "czechParliamentIdLabel": "6530",
+            "itemLabel": "Zden\u011bk Podal",
+            "birthDate": "1953-04-12T00:00:00Z",
+            "occupationLabel": "elektroin\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "6446",
+            "itemLabel": "Franti\u0161ek Elfmark",
+            "birthDate": "1978-10-19T00:00:00Z",
+            "occupationLabel": "spr\u00e1vce internetov\u00fdch str\u00e1nek"
+        },
+        {
+            "czechParliamentIdLabel": "6446",
+            "itemLabel": "Franti\u0161ek Elfmark",
+            "birthDate": "1978-10-19T00:00:00Z",
+            "occupationLabel": "informatik"
+        },
+        {
+            "czechParliamentIdLabel": "6446",
+            "itemLabel": "Franti\u0161ek Elfmark",
+            "birthDate": "1978-10-19T00:00:00Z",
+            "occupationLabel": "grafik"
+        },
+        {
+            "czechParliamentIdLabel": "6489",
+            "itemLabel": "Tom\u00e1\u0161 Vymazal",
+            "birthDate": "1990-05-11T00:00:00Z",
+            "occupationLabel": "informatik"
+        },
+        {
+            "czechParliamentIdLabel": "6526",
+            "itemLabel": "Ond\u0159ej Profant",
+            "birthDate": "1988-05-02T00:00:00Z",
+            "occupationLabel": "informatik"
+        },
+        {
+            "czechParliamentIdLabel": "6465",
+            "itemLabel": "Lenka Kozlov\u00e1",
+            "birthDate": "1960-10-27T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6425",
+            "itemLabel": "Barbora Jelonkov\u00e1",
+            "birthDate": "1972-08-14T00:00:00Z",
+            "occupationLabel": "veterin\u00e1rn\u00ed l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6486",
+            "itemLabel": "Vojt\u011bch Munzar",
+            "birthDate": "1976-12-19T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6428",
+            "itemLabel": "Andrea Babi\u0161ov\u00e1",
+            "birthDate": "1972-04-17T00:00:00Z",
+            "occupationLabel": "v\u0161eobecn\u00e1 sestra"
+        },
+        {
+            "czechParliamentIdLabel": "6467",
+            "itemLabel": "Zuzana Majerov\u00e1 Zahradn\u00edkov\u00e1",
+            "birthDate": "1972-06-28T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6467",
+            "itemLabel": "Zuzana Majerov\u00e1 Zahradn\u00edkov\u00e1",
+            "birthDate": "1972-06-28T00:00:00Z",
+            "occupationLabel": "p\u0159ekladatel"
+        },
+        {
+            "czechParliamentIdLabel": "6467",
+            "itemLabel": "Zuzana Majerov\u00e1 Zahradn\u00edkov\u00e1",
+            "birthDate": "1972-06-28T00:00:00Z",
+            "occupationLabel": "tlumo\u010dn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6529",
+            "itemLabel": "Ond\u0159ej Polansk\u00fd",
+            "birthDate": "1984-01-22T00:00:00Z",
+            "occupationLabel": "program\u00e1tor"
+        },
+        {
+            "czechParliamentIdLabel": "6497",
+            "itemLabel": "Adam Kalous",
+            "birthDate": "1979-10-06T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6497",
+            "itemLabel": "Adam Kalous",
+            "birthDate": "1979-10-06T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6491",
+            "itemLabel": "Adam Vojt\u011bch",
+            "birthDate": "1986-10-02T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6491",
+            "itemLabel": "Adam Vojt\u011bch",
+            "birthDate": "1986-10-02T00:00:00Z",
+            "occupationLabel": "zp\u011bv\u00e1k"
+        },
+        {
+            "czechParliamentIdLabel": "6448",
+            "itemLabel": "Milan Feranec",
+            "birthDate": "1964-01-18T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6463",
+            "itemLabel": "Ale\u0161 Juchelka",
+            "birthDate": "1976-04-18T00:00:00Z",
+            "occupationLabel": "scen\u00e1rista"
+        },
+        {
+            "czechParliamentIdLabel": "6463",
+            "itemLabel": "Ale\u0161 Juchelka",
+            "birthDate": "1976-04-18T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6463",
+            "itemLabel": "Ale\u0161 Juchelka",
+            "birthDate": "1976-04-18T00:00:00Z",
+            "occupationLabel": "dramaturg"
+        },
+        {
+            "czechParliamentIdLabel": "6463",
+            "itemLabel": "Ale\u0161 Juchelka",
+            "birthDate": "1976-04-18T00:00:00Z",
+            "occupationLabel": "moder\u00e1tor"
+        },
+        {
+            "czechParliamentIdLabel": "6447",
+            "itemLabel": "Kamal Farhan",
+            "birthDate": "1969-01-29T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6480",
+            "itemLabel": "Radek Zles\u00e1k",
+            "birthDate": "1983-07-11T00:00:00Z",
+            "occupationLabel": "stavebn\u00ed in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "6525",
+            "itemLabel": "Pavel Pust\u011bjovsk\u00fd",
+            "birthDate": "1972-01-17T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6533",
+            "itemLabel": "Marek Nov\u00e1k",
+            "birthDate": "1976-08-02T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6451",
+            "itemLabel": "Stanislav Fridrich",
+            "birthDate": "1956-12-25T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6464",
+            "itemLabel": "Barbora Ko\u0159anov\u00e1",
+            "birthDate": "1984-09-27T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6464",
+            "itemLabel": "Barbora Ko\u0159anov\u00e1",
+            "birthDate": "1984-09-27T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6506",
+            "itemLabel": "Tom\u00e1\u0161 Kohoutek",
+            "birthDate": "1983-03-16T00:00:00Z",
+            "occupationLabel": "not\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6511",
+            "itemLabel": "Jan Kub\u00edk",
+            "birthDate": "1978-10-29T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6500",
+            "itemLabel": "Jan Richter",
+            "birthDate": "1967-11-28T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6509",
+            "itemLabel": "Robert Kr\u00e1l\u00ed\u010dek",
+            "birthDate": "1977-02-11T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6517",
+            "itemLabel": "Jan Schiller",
+            "birthDate": "1972-04-06T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6472",
+            "itemLabel": "V\u011bra Proch\u00e1zkov\u00e1",
+            "birthDate": "1954-04-03T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6476",
+            "itemLabel": "Marcela Melkov\u00e1",
+            "birthDate": "1971-01-24T00:00:00Z",
+            "occupationLabel": "zp\u011bv\u00e1k"
+        },
+        {
+            "czechParliamentIdLabel": "6536",
+            "itemLabel": "P\u0159emysl Mali\u0161",
+            "birthDate": "1980-01-28T00:00:00Z",
+            "occupationLabel": "projektov\u00fd mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6434",
+            "itemLabel": "Andrea Brzobohat\u00e1",
+            "birthDate": "1971-06-09T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6496",
+            "itemLabel": "Pavel Ju\u0159\u00ed\u010dek",
+            "birthDate": "1956-10-29T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6496",
+            "itemLabel": "Pavel Ju\u0159\u00ed\u010dek",
+            "birthDate": "1956-10-29T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6527",
+            "itemLabel": "David Pra\u017e\u00e1k",
+            "birthDate": "1979-09-13T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6458",
+            "itemLabel": "Ivan J\u00e1\u010d",
+            "birthDate": "1956-04-29T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6458",
+            "itemLabel": "Ivan J\u00e1\u010d",
+            "birthDate": "1956-04-29T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6445",
+            "itemLabel": "Jaroslav Dvo\u0159\u00e1k",
+            "birthDate": "1957-11-04T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6514",
+            "itemLabel": "Lubom\u00edr \u0160pan\u011bl",
+            "birthDate": "1955-10-01T00:00:00Z",
+            "occupationLabel": "elektrik\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6508",
+            "itemLabel": "Radek Koten",
+            "birthDate": "1965-03-18T00:00:00Z",
+            "occupationLabel": "informatik"
+        },
+        {
+            "czechParliamentIdLabel": "6508",
+            "itemLabel": "Radek Koten",
+            "birthDate": "1965-03-18T00:00:00Z",
+            "occupationLabel": "Q1507349"
+        },
+        {
+            "czechParliamentIdLabel": "6508",
+            "itemLabel": "Radek Koten",
+            "birthDate": "1965-03-18T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6540",
+            "itemLabel": "Eva Maty\u00e1\u0161ov\u00e1",
+            "birthDate": "1959-07-15T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6503",
+            "itemLabel": "Ji\u0159\u00ed Kobza",
+            "birthDate": "1955-12-27T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6503",
+            "itemLabel": "Ji\u0159\u00ed Kobza",
+            "birthDate": "1955-12-27T00:00:00Z",
+            "occupationLabel": "diplomat"
+        },
+        {
+            "czechParliamentIdLabel": "6460",
+            "itemLabel": "Monika Jaro\u0161ov\u00e1",
+            "birthDate": "1970-12-30T00:00:00Z",
+            "occupationLabel": "v\u0161eobecn\u00e1 sestra"
+        },
+        {
+            "czechParliamentIdLabel": "6478",
+            "itemLabel": "Ivana Nevludov\u00e1",
+            "birthDate": "1977-07-29T00:00:00Z",
+            "occupationLabel": "specialista v oblasti \u00fa\u010detnictv\u00ed"
+        },
+        {
+            "czechParliamentIdLabel": "6544",
+            "itemLabel": "Lubom\u00edr Metnar",
+            "birthDate": "1967-10-06T00:00:00Z",
+            "occupationLabel": "policista"
+        },
+        {
+            "czechParliamentIdLabel": "6544",
+            "itemLabel": "Lubom\u00edr Metnar",
+            "birthDate": "1967-10-06T00:00:00Z",
+            "occupationLabel": "\u00fa\u0159edn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6804",
+            "itemLabel": "Zdenka N\u011bme\u010dkov\u00e1 Crkvenja\u0161",
+            "birthDate": "1976-09-14T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6580",
+            "itemLabel": "Monika \u010cerv\u00ed\u010dkov\u00e1",
+            "birthDate": "1967-02-09T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6587",
+            "itemLabel": "Petr Venhoda",
+            "birthDate": "1986-07-25T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6751",
+            "itemLabel": "Karel Haas",
+            "birthDate": "1973-09-14T00:00:00Z",
+            "occupationLabel": "sportovec"
+        },
+        {
+            "czechParliamentIdLabel": "6736",
+            "itemLabel": "Martin Kukla",
+            "birthDate": "1982-10-31T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "6621",
+            "itemLabel": "Karel Havl\u00ed\u010dek",
+            "birthDate": "1969-08-16T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6621",
+            "itemLabel": "Karel Havl\u00ed\u010dek",
+            "birthDate": "1969-08-16T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6624",
+            "itemLabel": "Franti\u0161ek Navrkal",
+            "birthDate": "1992-09-15T00:00:00Z",
+            "occupationLabel": "analytik"
+        },
+        {
+            "czechParliamentIdLabel": "6782",
+            "itemLabel": "Drahoslav Ryba",
+            "birthDate": "1962-12-02T00:00:00Z",
+            "occupationLabel": "hasi\u010d"
+        },
+        {
+            "czechParliamentIdLabel": "6758",
+            "itemLabel": "Igor Hendrych",
+            "birthDate": "1967-11-19T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6758",
+            "itemLabel": "Igor Hendrych",
+            "birthDate": "1967-11-19T00:00:00Z",
+            "occupationLabel": "sociolog"
+        },
+        {
+            "czechParliamentIdLabel": "6754",
+            "itemLabel": "Mat\u011bj Havel",
+            "birthDate": "1987-02-12T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6754",
+            "itemLabel": "Mat\u011bj Havel",
+            "birthDate": "1987-02-12T00:00:00Z",
+            "occupationLabel": "historik"
+        },
+        {
+            "czechParliamentIdLabel": "6791",
+            "itemLabel": "Viktor Vojtko",
+            "birthDate": "1978-09-01T00:00:00Z",
+            "occupationLabel": "informatik"
+        },
+        {
+            "czechParliamentIdLabel": "6791",
+            "itemLabel": "Viktor Vojtko",
+            "birthDate": "1978-09-01T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6731",
+            "itemLabel": "Milan Wenzl",
+            "birthDate": "1959-05-12T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6779",
+            "itemLabel": "Ond\u0159ej Lochman",
+            "birthDate": "1980-10-30T00:00:00Z",
+            "occupationLabel": "lektor"
+        },
+        {
+            "czechParliamentIdLabel": "6779",
+            "itemLabel": "Ond\u0159ej Lochman",
+            "birthDate": "1980-10-30T00:00:00Z",
+            "occupationLabel": "konzultant"
+        },
+        {
+            "czechParliamentIdLabel": "6721",
+            "itemLabel": "Roman B\u011blor",
+            "birthDate": "1958-08-09T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6721",
+            "itemLabel": "Roman B\u011blor",
+            "birthDate": "1958-08-09T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6768",
+            "itemLabel": "Milo\u0161 Nov\u00fd",
+            "birthDate": "1960-01-18T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6768",
+            "itemLabel": "Milo\u0161 Nov\u00fd",
+            "birthDate": "1960-01-18T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6661",
+            "itemLabel": "Irena Bla\u017ekov\u00e1",
+            "birthDate": "1969-05-06T00:00:00Z",
+            "occupationLabel": "zootechnik"
+        },
+        {
+            "czechParliamentIdLabel": "6661",
+            "itemLabel": "Irena Bla\u017ekov\u00e1",
+            "birthDate": "1969-05-06T00:00:00Z",
+            "occupationLabel": "instruktor auto\u0161koly"
+        },
+        {
+            "czechParliamentIdLabel": "6760",
+            "itemLabel": "Radim Holi\u0161",
+            "birthDate": "1975-08-12T00:00:00Z",
+            "occupationLabel": "projektant"
+        },
+        {
+            "czechParliamentIdLabel": "6792",
+            "itemLabel": "V\u00edt Vom\u00e1\u010dka",
+            "birthDate": "1960-01-17T00:00:00Z",
+            "occupationLabel": "zootechnik"
+        },
+        {
+            "czechParliamentIdLabel": "6792",
+            "itemLabel": "V\u00edt Vom\u00e1\u010dka",
+            "birthDate": "1960-01-17T00:00:00Z",
+            "occupationLabel": "st\u0159edo\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6781",
+            "itemLabel": "Michael Rataj",
+            "birthDate": "1969-09-28T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6781",
+            "itemLabel": "Michael Rataj",
+            "birthDate": "1969-09-28T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6783",
+            "itemLabel": "Jan S\u00edla",
+            "birthDate": "1950-03-01T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6763",
+            "itemLabel": "Michaela \u0160ebelov\u00e1",
+            "birthDate": "1982-06-16T00:00:00Z",
+            "occupationLabel": "fyzioterapeut"
+        },
+        {
+            "czechParliamentIdLabel": "6786",
+            "itemLabel": "R\u00f3bert Teleky",
+            "birthDate": "1967-06-30T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6686",
+            "itemLabel": "Jaroslava Puntov\u00e1",
+            "birthDate": "1957-12-20T00:00:00Z",
+            "occupationLabel": "soci\u00e1ln\u00ed pracovn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6693",
+            "itemLabel": "Libor Hoppe",
+            "birthDate": "1962-11-15T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6693",
+            "itemLabel": "Libor Hoppe",
+            "birthDate": "1962-11-15T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6735",
+            "itemLabel": "Jan Kucha\u0159",
+            "birthDate": "1974-05-18T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6793",
+            "itemLabel": "Ren\u00e1ta Zaj\u00ed\u010dkov\u00e1",
+            "birthDate": "1967-08-17T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6555",
+            "itemLabel": "Tom Philipp",
+            "birthDate": "1968-01-01T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6555",
+            "itemLabel": "Tom Philipp",
+            "birthDate": "1968-01-01T00:00:00Z",
+            "occupationLabel": "m\u00edstn\u00ed politik"
+        },
+        {
+            "czechParliamentIdLabel": "6803",
+            "itemLabel": "Ji\u0159\u00ed Hor\u00e1k",
+            "birthDate": "1984-07-24T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6803",
+            "itemLabel": "Ji\u0159\u00ed Hor\u00e1k",
+            "birthDate": "1984-07-24T00:00:00Z",
+            "occupationLabel": "sociolog"
+        },
+        {
+            "czechParliamentIdLabel": "6787",
+            "itemLabel": "Libor Turek",
+            "birthDate": "1971-02-05T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6727",
+            "itemLabel": "Eva Decroix",
+            "birthDate": "1982-05-26T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6727",
+            "itemLabel": "Eva Decroix",
+            "birthDate": "1982-05-26T00:00:00Z",
+            "occupationLabel": "podnikatel"
+        },
+        {
+            "czechParliamentIdLabel": "6720",
+            "itemLabel": "Romana B\u011blohl\u00e1vkov\u00e1",
+            "birthDate": "1965-01-26T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6800",
+            "itemLabel": "V\u00e1clav Kr\u00e1l",
+            "birthDate": "1980-03-25T00:00:00Z",
+            "occupationLabel": "ekonom"
+        },
+        {
+            "czechParliamentIdLabel": "6752",
+            "itemLabel": "Martin H\u00e1jek",
+            "birthDate": "1970-04-22T00:00:00Z",
+            "occupationLabel": "u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6790",
+            "itemLabel": "Milada Voborsk\u00e1",
+            "birthDate": "1972-07-25T00:00:00Z",
+            "occupationLabel": "korektor"
+        },
+        {
+            "czechParliamentIdLabel": "6790",
+            "itemLabel": "Milada Voborsk\u00e1",
+            "birthDate": "1972-07-25T00:00:00Z",
+            "occupationLabel": "editor"
+        },
+        {
+            "czechParliamentIdLabel": "6748",
+            "itemLabel": "Petr Fifka",
+            "birthDate": "1967-01-27T00:00:00Z",
+            "occupationLabel": "farmaceut"
+        },
+        {
+            "czechParliamentIdLabel": "386",
+            "itemLabel": "Stanislav K\u0159e\u010dek",
+            "birthDate": "1938-05-20T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6761",
+            "itemLabel": "Petra Quittov\u00e1",
+            "birthDate": "1972-09-02T00:00:00Z",
+            "occupationLabel": "sekret\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6761",
+            "itemLabel": "Petra Quittov\u00e1",
+            "birthDate": "1972-09-02T00:00:00Z",
+            "occupationLabel": "\u00fa\u0159edn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6134",
+            "itemLabel": "Tom\u00e1\u0161 Podiv\u00ednsk\u00fd",
+            "birthDate": "1969-11-21T00:00:00Z",
+            "occupationLabel": "p\u0159ekladatel"
+        },
+        {
+            "czechParliamentIdLabel": "6134",
+            "itemLabel": "Tom\u00e1\u0161 Podiv\u00ednsk\u00fd",
+            "birthDate": "1969-11-21T00:00:00Z",
+            "occupationLabel": "grafik"
+        },
+        {
+            "czechParliamentIdLabel": "6134",
+            "itemLabel": "Tom\u00e1\u0161 Podiv\u00ednsk\u00fd",
+            "birthDate": "1969-11-21T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6003",
+            "itemLabel": "Miroslav Petr\u00e1\u0148",
+            "birthDate": "1951-07-13T00:00:00Z",
+            "occupationLabel": "architekt"
+        },
+        {
+            "czechParliamentIdLabel": "6204",
+            "itemLabel": "Ji\u0159\u00ed Junek",
+            "birthDate": "1973-11-25T00:00:00Z",
+            "occupationLabel": "historik"
+        },
+        {
+            "czechParliamentIdLabel": "6435",
+            "itemLabel": "Martin Baxa",
+            "birthDate": "1975-09-16T00:00:00Z",
+            "occupationLabel": "st\u00e1tn\u00ed \u00fa\u0159edn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6435",
+            "itemLabel": "Martin Baxa",
+            "birthDate": "1975-09-16T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6208",
+            "itemLabel": "Simeon Karamazov",
+            "birthDate": "1963-12-19T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6538",
+            "itemLabel": "Martin Kupka",
+            "birthDate": "1975-10-28T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "6538",
+            "itemLabel": "Martin Kupka",
+            "birthDate": "1975-10-28T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6538",
+            "itemLabel": "Martin Kupka",
+            "birthDate": "1975-10-28T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6757",
+            "itemLabel": "\u0160imon Heller",
+            "birthDate": "1988-01-16T00:00:00Z",
+            "occupationLabel": "st\u0159edo\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6757",
+            "itemLabel": "\u0160imon Heller",
+            "birthDate": "1988-01-16T00:00:00Z",
+            "occupationLabel": "u\u010ditel na z\u00e1kladn\u00ed \u0161kole"
+        },
+        {
+            "czechParliamentIdLabel": "6757",
+            "itemLabel": "\u0160imon Heller",
+            "birthDate": "1988-01-16T00:00:00Z",
+            "occupationLabel": "objevitel"
+        },
+        {
+            "czechParliamentIdLabel": "6757",
+            "itemLabel": "\u0160imon Heller",
+            "birthDate": "1988-01-16T00:00:00Z",
+            "occupationLabel": "u\u010ditel matematiky"
+        },
+        {
+            "czechParliamentIdLabel": "6757",
+            "itemLabel": "\u0160imon Heller",
+            "birthDate": "1988-01-16T00:00:00Z",
+            "occupationLabel": "u\u010ditel zem\u011bpisu"
+        },
+        {
+            "czechParliamentIdLabel": "6137",
+            "itemLabel": "Franti\u0161ek V\u00e1cha",
+            "birthDate": "1966-09-11T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6137",
+            "itemLabel": "Franti\u0161ek V\u00e1cha",
+            "birthDate": "1966-09-11T00:00:00Z",
+            "occupationLabel": "biochemik"
+        },
+        {
+            "czechParliamentIdLabel": "6227",
+            "itemLabel": "Herbert Pavera",
+            "birthDate": "1958-01-04T00:00:00Z",
+            "occupationLabel": "pedagog"
+        },
+        {
+            "czechParliamentIdLabel": "6227",
+            "itemLabel": "Herbert Pavera",
+            "birthDate": "1958-01-04T00:00:00Z",
+            "occupationLabel": "Q19323171"
+        },
+        {
+            "czechParliamentIdLabel": "6190",
+            "itemLabel": "Jaroslav Falt\u00fdnek",
+            "birthDate": "1962-04-28T00:00:00Z",
+            "occupationLabel": "mal\u00ed\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6201",
+            "itemLabel": "Miloslav Janul\u00edk",
+            "birthDate": "1962-09-21T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6201",
+            "itemLabel": "Miloslav Janul\u00edk",
+            "birthDate": "1962-09-21T00:00:00Z",
+            "occupationLabel": "gynekolog"
+        },
+        {
+            "czechParliamentIdLabel": "6165",
+            "itemLabel": "Radek Vondr\u00e1\u010dek",
+            "birthDate": "1973-12-30T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6197",
+            "itemLabel": "Radim Hole\u010dek",
+            "birthDate": "1976-06-21T00:00:00Z",
+            "occupationLabel": "germanista"
+        },
+        {
+            "czechParliamentIdLabel": "6197",
+            "itemLabel": "Radim Hole\u010dek",
+            "birthDate": "1976-06-21T00:00:00Z",
+            "occupationLabel": "publicista"
+        },
+        {
+            "czechParliamentIdLabel": "6219",
+            "itemLabel": "Jana Lorencov\u00e1",
+            "birthDate": "1940-04-02T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "6219",
+            "itemLabel": "Jana Lorencov\u00e1",
+            "birthDate": "1940-04-02T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6219",
+            "itemLabel": "Jana Lorencov\u00e1",
+            "birthDate": "1940-04-02T00:00:00Z",
+            "occupationLabel": "re\u017eis\u00e9r"
+        },
+        {
+            "czechParliamentIdLabel": "6232",
+            "itemLabel": "Luk\u00e1\u0161 Pleticha",
+            "birthDate": "1974-10-18T00:00:00Z",
+            "occupationLabel": "advok\u00e1t"
+        },
+        {
+            "czechParliamentIdLabel": "6185",
+            "itemLabel": "Milan Br\u00e1zdil",
+            "birthDate": "1962-11-05T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6174",
+            "itemLabel": "Igor Nykl",
+            "birthDate": "1963-09-11T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6189",
+            "itemLabel": "Ivana Dobe\u0161ov\u00e1",
+            "birthDate": "1960-07-12T00:00:00Z",
+            "occupationLabel": "st\u0159edo\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6237",
+            "itemLabel": "Zden\u011bk Soukup",
+            "birthDate": "1952-12-06T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "6237",
+            "itemLabel": "Zden\u011bk Soukup",
+            "birthDate": "1952-12-06T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6209",
+            "itemLabel": "David Kasal",
+            "birthDate": "1969-01-01T00:00:00Z",
+            "occupationLabel": "l\u00e9ka\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6211",
+            "itemLabel": "Martin Kolovratn\u00edk",
+            "birthDate": "1975-04-11T00:00:00Z",
+            "occupationLabel": "spisovatel"
+        },
+        {
+            "czechParliamentIdLabel": "6211",
+            "itemLabel": "Martin Kolovratn\u00edk",
+            "birthDate": "1975-04-11T00:00:00Z",
+            "occupationLabel": "novin\u00e1\u0159"
+        },
+        {
+            "czechParliamentIdLabel": "6231",
+            "itemLabel": "Ivan Piln\u00fd",
+            "birthDate": "1944-07-06T00:00:00Z",
+            "occupationLabel": "in\u017een\u00fdr"
+        },
+        {
+            "czechParliamentIdLabel": "6224",
+            "itemLabel": "Zden\u011bk Ondr\u00e1\u010dek",
+            "birthDate": "1969-07-28T00:00:00Z",
+            "occupationLabel": "policista"
+        },
+        {
+            "czechParliamentIdLabel": "6234",
+            "itemLabel": "Karel Pra\u017e\u00e1k",
+            "birthDate": "1945-01-11T00:00:00Z",
+            "occupationLabel": "hokejista"
+        },
+        {
+            "czechParliamentIdLabel": "6756",
+            "itemLabel": "Tom\u00e1\u0161 Helebrant",
+            "birthDate": "1974-01-02T00:00:00Z",
+            "occupationLabel": "mana\u017eer"
+        },
+        {
+            "czechParliamentIdLabel": "6762",
+            "itemLabel": "Pavla Pivo\u0148ka Va\u0148kov\u00e1",
+            "birthDate": "1976-10-31T00:00:00Z",
+            "occupationLabel": "st\u0159edo\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6746",
+            "itemLabel": "Lucie Pot\u016f\u010dkov\u00e1",
+            "birthDate": "1975-09-01T00:00:00Z",
+            "occupationLabel": "pr\u00e1vn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6777",
+            "itemLabel": "Michael Kohajda",
+            "birthDate": "1981-01-23T00:00:00Z",
+            "occupationLabel": "pr\u00e1vn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6777",
+            "itemLabel": "Michael Kohajda",
+            "birthDate": "1981-01-23T00:00:00Z",
+            "occupationLabel": "vysoko\u0161kolsk\u00fd u\u010ditel"
+        },
+        {
+            "czechParliamentIdLabel": "6717",
+            "itemLabel": "Luk\u00e1\u0161 V\u00e1gner",
+            "birthDate": "1980-11-26T00:00:00Z",
+            "occupationLabel": "pr\u00e1vn\u00edk"
+        },
+        {
+            "czechParliamentIdLabel": "6717",
+            "itemLabel": "Luk\u00e1\u0161 V\u00e1gner",
+            "birthDate": "1980-11-26T00:00:00Z",
+            "occupationLabel": "ekonom"
+        }
+    ]
+}
